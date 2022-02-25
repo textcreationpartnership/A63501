@@ -1,0 +1,1711 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Countess of Banbury's case relating to her marriage rightly stated in a letter to the Lord Banbury.</title>
+            <author>Price, Elizabeth, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63501</idno>
+            <idno type="STC">Wing T2667</idno>
+            <idno type="STC">ESTC R12414</idno>
+            <idno type="EEBO-CITATION">13799328</idno>
+            <idno type="OCLC">ocm 13799328</idno>
+            <idno type="VID">101927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Countess of Banbury's case relating to her marriage rightly stated in a letter to the Lord Banbury.</title>
+                  <author>Price, Elizabeth, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [2]</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Price, Elizabeth, 17th cent --  Trials, litigation, etc.</term>
+               <term>Banbury, Elizabeth Lister Knollys, --  Countess of, 1663-1699.</term>
+               <term>Banbury, Charles Knollys, --  Earl of, 1662-1740.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101927:1"/>
+            <p>THE TRUE Counteſs of Banbury's CASE, Relating to Her MARRIAGE,
+RIGHTLY STATED. IN A LETTER TO THE Lord BANBURY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXCVI</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:101927:2"/>
+            <head>ERRATA.</head>
+            <p>PAge 1. between the Words <hi>elſewhere</hi> and <hi>with all
+the Virulence,</hi> Read <hi>tho'.</hi>
+            </p>
+            <p>Page 27. theſe Lines.</p>
+            <p>
+               <hi>The very next enſuing Paragraph will explain the mean<g ref="char:EOLhyphen"/>ning,
+and give you the reaſon of his writing this Letter fol<g ref="char:EOLhyphen"/>lowing.</hi> Should
+have come in after the Letter in p. 28.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101927:2"/>
+            <head>THE Counteſs of Banbury's CASE.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THE Eſteem, Duty, and Affection I have ever had for your
+Lordſhip ſince our Marriage, and the firſt Aſſu<g ref="char:EOLhyphen"/>rances of Love and
+Friendſhip between us, has hither<g ref="char:EOLhyphen"/>to reſtrained me from doing my ſelf
+right in any publick Vin<g ref="char:EOLhyphen"/>dication of my Honour, and the Juſtice of my Cauſe
+to the World: Becauſe in ſo doing, I muſt neceſſarily have expoſed
+your Lordſhip to ſuch a Degree, that you your ſelf muſt have joined in
+Opinion with your Fellow-Peers, even againſt your ſelf; that is to ſay,
+That in denying you the Honour and Pri<g ref="char:EOLhyphen"/>vilege of Sitting with them in
+Parliament. The Refuſal was both Righteous and Reaſonable; and ſuch was
+the Tenderneſs I had for your Lordſhip's Honour and good Name, that I
+ſhould have kept my ſelf ſtill within theſe Bounds, if the cauſleſs
+and the calumnious Bitterneſs of your Proceedings againſt me had not made
+this Defence neceſſary. As to the Falſeneſs and Inju<g ref="char:EOLhyphen"/>ſtice of your
+Pretenſions, it was ſufficiently laid open in the Re<g ref="char:EOLhyphen"/>ſpective Courts of
+<hi>Chancery, King</hi>'s <hi>Bench,</hi> and elſewhere, with all the
+Virulence of perſonal Reflections upon me that ill Na<g ref="char:EOLhyphen"/>ture, ill Manners could
+put together, and ill Inſtructed Lawyers invent: Yet had not you publickly
+owned Mrs. <hi>Litſter</hi> by Co<g ref="char:EOLhyphen"/>habitation, Quartering of Arms,
+Chriſtening of Children, by Great and Noble Perſons, and by their
+Countenance given the World a ſtrong Preſumption of Marriage with her; and
+conſe<g ref="char:EOLhyphen"/>quently of diſclaiming your Marriage with me, though moſt
+no<g ref="char:EOLhyphen"/>toriouſly Solemnized and Licenſed upon your Lordſhip's taking your
+Oath and the Holy Sacrament, That you were a ſingle
+<pb n="2" facs="tcp:101927:3"/>Man, and free from all Contracts of Marriage with
+any other Perſon whatſoever. And laſtly, had not your Lordſhip with all
+Induſtry, protracted and kept off the Judgment and Sen<g ref="char:EOLhyphen"/>tence ready to be
+pronounced in <hi>Doctors Commons,</hi> by appeal<g ref="char:EOLhyphen"/>ing to a Court of Delegats;
+becauſe the Dean of the Arches would not admit (contrary to all Law,
+Reaſon, and Practice) your Miſtriſs (to ſay no more) for a Witneſs in
+her own Cauſe, to ſwear her ſelf a Counteſs, and her Baſtard-Children
+Legiti<g ref="char:EOLhyphen"/>mates; by which means, the Sentence was deferred for at leaſt Six
+Months longer. I ſay, my Lord, had it not been this, to<g ref="char:EOLhyphen"/>gether with the
+Inſupportable Expences you daily and almoſt hourly put upon me, the
+Indignities and Affronts you perpe<g ref="char:EOLhyphen"/>tually expoſe me to; I ſhould, perhaps,
+have ſuffered patiently under the heavy Load of all the chargeable Miſeries
+that your faithleſs Inhumanity hath undeſervedly caſt upon me. But being
+now fully convinced, by the Obſtinacy and Iniquity of your Proceedings, that
+there is no Hope left me of recovering your cauſleſly loſt Affections,
+your Lordſhip muſt forgive me, if at laſt I repair to the regular Ways of
+maintaining that which your Lordſhip cannot take from me; that is, the Honour
+you conferred upon me by our Intermarriage. We are all mortal, My Lord, and
+both of us may die before a Sentence of Law paſs; and therefore for fear of
+the worſt, I have here drawn up a true and impartial Narrative of all the
+Proceedings be<g ref="char:EOLhyphen"/>tween your Lordſhip and my ſelf, relating to our Marriage,
+from the Day you and your Family came firſt to my Houſe; appealing to your
+own Conſcience upon the Truth of every Syllable I deliver, with the Manner
+and Proofs of it, ſubmitting my ſelf upon the whole matter to the Judgment
+of God and the World. If any thing bear hard upon your Lordſhip, your Wife's
+Honour my Lord, is at Stake; and this Defence is in ſome ſort a Duty to
+your Lordſhip in the Right of your Wife.</p>
+            <p>Your Lordſhip well knows, that about <hi>Auguſt</hi> 1689. you
+took my Houſe in the <hi>Pall-mall,</hi> and brought your Siſter the Lady
+<hi>Katharine,</hi> with all your Family thither; and at that time you were
+taken for a ſingle Man by your own Servants and Re<g ref="char:EOLhyphen"/>lations. You wanted
+nothing then but a Wife; and to ſupply that Want, you were pleaſed to make
+Applications to me. Upon this Addreſs, I was ſo far prevailed upon, as to
+break off a Match, in a manner agreed upon by the Conſent of all my Friends,
+with a Gentleman not inferiour in Fortune to your
+<pb n="3" facs="tcp:101927:3"/>Lordſhip; and moreover, to oblige my ſelf in
+the moſt ſolemn Vows and Promiſes of Marriage to your Lordſhip, and in
+order to Conſummation of the Marriage, your Lordſhip perſwaded me to go
+into <hi>France</hi> to have it celebrated there. Purſuant to that
+Agree<g ref="char:EOLhyphen"/>ment, in <hi>December</hi> 1689. your Lordſhip carried me and my
+Siſter <hi>Brownſworth</hi> privately to <hi>Dover,</hi>
+               <note place="margin">Mrs. <hi>Hanah Brownſworth.</hi>
+               </note> and
+prevailed with her to go over with me to <hi>Calis,</hi> ſending your Plate,
+Clothes, and ſome of your Servants to attend me till you could come your
+ſelf; aſſu<g ref="char:EOLhyphen"/>ring me upon parting, That you would diſpatch your
+Buſineſs in <hi>England,</hi> and come over with all the ſpeed you could:
+But your Affairs ſo fell out, that your Lordſhip did not come to
+<hi>Paris</hi> till <hi>May</hi> following, where you may remember you found me
+in a Monaſtery, and received and treated me with all the Reſpect and
+Endearments of a moſt affectionate Husband; and though we were not formally
+married, ſuffered me yet to take your Title upon me, and wrote Letters to me
+your ſelf as Counteſs of <hi>Banbury.</hi> All this is fully proved in
+Court; I ſhall not trouble your Lordſhip, or the Reader, with the Hiſtory
+of our-Travels and the manner of our living in <hi>France,</hi> but paſs over
+that and all other Actions between us; till by your Lordſhip's Order, I came
+into <hi>Italy,</hi> and met with your Lordſhip there. How your Lordſhip
+treated me at <hi>Mantua, Verona,</hi> and other places in <hi>Italy,</hi> will
+appear by your own Letters and Proofs herein truly recited; whereby it is
+proved, That about <hi>Eaſter</hi> 1692. I was carried by your Lordſhip
+from <hi>Mantua</hi> to <hi>Verona,</hi> and there ſolemnly married to you:
+And for further Satisfaction, I ſhall deſire the Reader's leave in the
+firſt place, to inform him how careful they were in taking the Foreign
+Depoſitions and Proofs of my Marriage with your Lordſhip; and for that
+pur<g ref="char:EOLhyphen"/>poſe, I ſhall inſert a true Copy of the Archbiſhop of
+<hi>Verona</hi>'s Letter, who is likewiſe a temporal Prince, to Doctor
+<hi>Oxenden,</hi> Dean and Judge in the Cauſe between us, Word for Word, as
+it is regiſtred in the Arches; and it is as follows.</p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="4" facs="tcp:101927:4"/>
+                  <opener>
+                     <signed>We PETER LEON, by the Grace of God, and the Holy
+Apoſtolick See, Biſhop of <hi>Verona,</hi> and Count, <hi>&amp;c.</hi>
+                     </signed>
+                     <salute>To our Beloved in Chriſt, the Right Worſhipful <hi>George Oxenden,</hi> Dr. of
+Laws, Official Principal of the Arches Court of <hi>Canterbury,</hi> law<g ref="char:EOLhyphen"/>fully
+Conſtituted, or his Surrogator, Health, <hi>&amp;c.</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <hi>YOur Letters Remiſſorial of the Second day of</hi> April
+<hi>laſt paſt, directed to <g ref="char:V">Ʋ</g>s by your Worſhip, and actually preſented
+by Mr.</hi> Francis Gella, <hi>Subſtitute Proctor of the Right
+Honourable</hi> Eli<g ref="char:EOLhyphen"/>zabeth <hi>Counteſs of</hi> Banbury <hi>alias</hi>
+Elizabeth Price, <hi>together with his Original Proxy, We have with all
+willingneſs received, and with like Diligence ordered Proceedings to be made
+upon the Contents thereof; according to the Form of the ſame in the beſt
+way We could. And whereas, by reaſon of an Indiſpoſition, We could not go
+out of Our Epiſcopal Palace to Examine Witneſſes and make theſe
+Procee<g ref="char:EOLhyphen"/>dings, We deputed the ſaid Epiſcopal Palace to be the proper
+Tri<g ref="char:EOLhyphen"/>bunal; but took Care nevertheleſs that Notice ſhould be given at the
+Doors of the Pariſh Church of St.</hi> Quiric <hi>and</hi> Julich, <hi>and of
+the Epiſcopal Palace, and of Our Cathedral Church of</hi> Verona, <hi>to the
+Right Honourable</hi> Charles Knolls <hi>Earl of</hi> Banbury, <hi>and</hi>
+Elizabeth Litſter, <hi>and their Proctors; But no body appearing,
+notwithſtanding their Contumacy, We thought fit to proceed, though not
+without ſome Doubts; becauſe the Interrogatories of the Party which in the
+Let<g ref="char:EOLhyphen"/>ters Remiſſorial were ſaid to be Annexed and Sealed, came not to <g ref="char:V">Ʋ</g>s
+nor Our Tribunal: But nevertheleſs, conſidering the ſtraitneſs of the
+Time and importance of this Cauſe, We</hi> Ex officio <hi>out of Reſpect to
+Juſtice ſupplying that Defect, gave Interrogatories by the ſtile of
+Court; and having aſſumed a Notary ſpecially required, We took the
+Depoſitions of the Witneſſes upon their Oaths with all Care,
+Faithfulneſs and Integrity. All which being faithfully redu<g ref="char:EOLhyphen"/>ced into Writing,
+and cloſed, ſealed and opened unto none, We remit to your Worſhip with
+theſe Preſents. But whereas ſome neceſſary Witneſſes named to
+prove ſome Articles contained in the Libel, are at preſent in very
+diſtant Cities; to wit, the Reverend Father</hi> De<g ref="char:EOLhyphen"/>cius Gaſparinus, <hi>of
+the Society of Jeſus, is in the City of</hi> Faccia, <hi>and the Reverend
+Father</hi> Francis Donati, <hi>of the ſame Society, is at the City of</hi>
+Bononia <hi>in</hi> Italy, <hi>and others are in the City of</hi> Mantua;
+<hi>ſo that they could not appear before <g ref="char:V">Ʋ</g>s: We conſidering the
+Neceſſity
+<pb n="5" facs="tcp:101927:4"/>thereof, Have requeſted the Right Reverend
+the Biſhops of Ordi<g ref="char:EOLhyphen"/>naries of theſe parts to take the Depoſitions of the
+ſame Witneſſes in Form. The Articles and Interrogatories being ſent to
+them for that purpoſe, whoſe Reſcripts We expecting, did not think fit to
+ſend this Our Proceeding without them: Nevertheleſs, leſt they ſhould
+not Arrive before the time aſſigned in the Letters Remiſſo<g ref="char:EOLhyphen"/>rial, We
+have ſent theſe Preſents, together with the ſaid Proceeding written in
+Ninety Nine Leaves, and Subſcribed by <g ref="char:V">Ʋ</g>s, reduced into Valid and Authentick
+Form cloſed and ſealed. The Libel, Ad<g ref="char:EOLhyphen"/>ditional Article, and Authentick
+Certificate to <g ref="char:V">Ʋ</g>s, with the Let<g ref="char:EOLhyphen"/>ters of the ſaid Court formerly preſented
+being inſerted, to the End, That as ſoon as may be, they may be faithfully
+Exhibited to your Worſhip. But as ſoon as ever We ſhall receive the
+Reſcripts of the ſaid Right Reverend Biſhops, and Depoſitions of the
+Wit<g ref="char:EOLhyphen"/>neſſes reſiding in thoſe Parts of</hi> Italy, <hi>We will take Care
+in like manner to Tranſmit them under Seal: For We promoting Juſtice,
+willingly Imploy Our Office in a Thing ſo agreeable to Law; and whenever
+Occaſion ſhall be, ſhall uſe your Worſhip with all Good Will and
+Favour.</hi> 
+                  </p>
+                  <closer>
+                     <dateline>Given at <hi>Verona</hi> from Our Epiſcopal
+Palace
+<date>
+                           <hi>Saturday</hi> the 18<hi rend="sup">th.</hi> of <hi>September,</hi> in
+the Year of our Lord 1694. and Second Year of the
+Pope.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Having given an Account by the preceeding Letter, of the Care that
+was taken in the Examinations; I ſhall, in the next place, make an Exact
+Abridgment of all the Foreign Depoſi<g ref="char:EOLhyphen"/>tions, except that of the Arch-prieſts
+that married us: But his Evidence I ſhall tranſcribe at large, Word for
+Word, as it was taken, in order to inſtruct the Reader in the Method that was
+uſed in taking the Depoſitions of all the reſt of the Witneſſes that
+were examined, by Virtue of the Commiſſion directed to the Arch-biſhop of
+<hi>Verona;</hi> and the Arch-prieſts Depoſition is in manner and form
+following.</p>
+            <p>On <hi>Saturday</hi> in the Morning, the <hi>11th.</hi> Day of
+<hi>September, 1694.</hi>
+            </p>
+            <p>Before the moſt Illuſtrious and moſt Reverend Father in
+Chriſt, and Lord <hi>Peter Leon,</hi> by the Grace of God, and the
+Apo<g ref="char:EOLhyphen"/>ſtolick See, Biſhop of <hi>Verona,</hi> and Count, <hi>&amp;c.</hi> and
+in this pre<g ref="char:EOLhyphen"/>ſent Cauſe Judge on the Commiſſion, <hi>&amp;c.</hi> in the
+Chamber of his Reſidence in the Palace,
+<note place="margin">
+                  <hi>John Baptiſt Picolati,</hi>
+Arch-Prieſt.</note> appeared perſonally the Reve<g ref="char:EOLhyphen"/>rend <hi>John Baptiſt
+Picolati</hi> of <hi>Verona,</hi> Son of <hi>Franciſco,</hi> Doctor
+<pb n="6" facs="tcp:101927:5"/>of Laws, Arch-prieſt of the Pariſh-Church of
+St <hi>Quirico</hi> and <hi>Julica,</hi> of this City; aged as he ſaid, and
+by Aſpect appeared, Fifty One Years, a Witneſs, produced and cited by the
+Meſ<g ref="char:EOLhyphen"/>ſenger as by his Report, <hi>&amp;c.</hi> and brought to be examined on
+the firſt, ſecond, and additional Articles contained in their Li<g ref="char:EOLhyphen"/>bel; who
+being admoniſhed to ſpeak the Truth, as well upon the Interrogations as
+upon the Articles, and all this preſent Cauſe without Hatred, Fear, Love,
+Gain, <hi>&amp;c.</hi> and being ſworn, as he did ſwear, with his Hand on
+the Holy Evangeliſts, in the Hands of his ſaid Reverence, to the needful
+Interrogations, he ſaid and depoſed as follows, ſpeaking in the
+<hi>Italian</hi> Tongue: And firſt, to the Admonition given him about the
+Weight of an Oath, the Penalty of Perjury, and the Importance of this Cauſe,
+he anſwered, I do very well know the Obligation of an Oath; and I ſhall
+ſay nothing but the Truth. To the firſt of the general Interrogatories,
+being interrogated, his Name, Surname, Father, Country and Employment; he
+anſwered, I have already declared my Name, Surname, Age, Father, Coun<g ref="char:EOLhyphen"/>try,
+and Degree of Arch-prieſt, and Employment as Pariſh-Prieſt. Being asked
+if he knoweth the Noble Lord <hi>Charles Knolls,</hi> Earl of <hi>Banbury,</hi>
+and the Noble Lady <hi>Elizabeth Price,</hi> Counteſs of <hi>Banbury;</hi> he
+anſwered, I know them no otherways than only that once they came to my
+Parochial Houſe, of St. <hi>Quirico</hi> and <hi>Julica,</hi> to be married
+by the Biſhop's Licence; and upon that Occaſion, I knew their Names,
+firſt by Father <hi>Decio Gaſ<g ref="char:EOLhyphen"/>parini,</hi> Rector of the Jeſuits, in
+Company with Father <hi>Donati,</hi> Reader of Philoſophy, who came before
+them to give me Notice; and a little time after, the ſaid Lord and Lady came,
+and then they gave me their Names; that is, the Gentleman ſaid his Name was
+<hi>Charles Knolls,</hi> Earl of <hi>Banbury,</hi> and the Lady <hi>Elizabeth
+Price,</hi> both of <hi>England.</hi> Being interrogated, If he be a Friend
+related by Conſanguinity, Affinity, Debtor, or Creditor of the Parties, He
+anſwered, No; I did never ſee, nor was acquaint<g ref="char:EOLhyphen"/>ed with them afterwards,
+only upon the Occaſion abovemen<g ref="char:EOLhyphen"/>tioned. Being interrogated, if he did know
+what this preſent Cauſe was about, and what he thinketh of it; he
+anſwered, As I have heard, and by the many Atteſtations that I have made in
+Writing about this Cauſe, I ſuppoſe that it is about the Va<g ref="char:EOLhyphen"/>lidity of
+this Marriage between the ſaid Parties, the <hi>Engliſh</hi> Lord and Lady;
+and as to my Sentiment, I do hold the Mar<g ref="char:EOLhyphen"/>riage to be valid and lawful, I
+having duely interrogated both
+<pb n="7" facs="tcp:101927:5"/>Parties, If they were willing to enter into this
+Matrimony ac<g ref="char:EOLhyphen"/>cording to the Rites of the Holy Roman Catholick Church? and they
+both anſwered, Yes;
+<note place="margin">
+                  <hi>The Latin Words ſignifie in
+Engliſh,</hi> According to the Rite of the Church</note> whereupon I did
+Celebrate this Marriage, <hi>Juxta Ritum Eccleſiae,</hi> and therefore I hold
+it to be valid. Being interrogated, If he came Voluntarily or by Requeſt to
+be Examined? He anſwered, I came by the Order of the Court brought to me by
+the Meſſenger. Being interrogated, If any thing was given, or promiſed,
+or offered to him for giving his Teſtimony herein, he anſwered, No. Then
+procee<g ref="char:EOLhyphen"/>ding to Examine him on the ſaid Firſt Article, being interro<g ref="char:EOLhyphen"/>gated
+if he doth know the Noble Lord <hi>Charles Knolls,</hi> Earl of
+<hi>Banbury,</hi> and <hi>Elizabeth Price</hi> Counteſs of <hi>Banbury,</hi>
+did Contract between them a true, pure and lawful Marriage, and did afterwards
+Solemnize the ſame legally in the Face of the Church; and how and when, in
+what place, and before what Witneſſes, ſpecifying every thing
+diſtinctly. He anſwered, On the Seventh day of <hi>April</hi> 1692. which
+was the Second Feaſt or <hi>Tueſday</hi> of <hi>Eaſter,</hi> being in the
+Morning in the Sacriſty of the Nuns of the Order of St. <hi>Daniel</hi> of
+this City, where I was Con<g ref="char:EOLhyphen"/>feſſor in Ordinary to the ſaid Nuns; the
+moſt Reverend the Vicar-general of the Biſhoprick coming thither to ſay
+Maſs, told Me, That a Licence for Marriage of an <hi>Engliſh</hi>
+Gen<g ref="char:EOLhyphen"/>tleman and Lady was to come to me, he having granted a Licence to that
+purpoſe, and directed to me. And on the ſame Day in the Afternoon, a little
+before the Veſpers, there came to my Parochial Houſe, Father
+<hi>Gaſparino</hi> (at that time) Rector of the College of St.
+<hi>Sebaſtian,</hi> in this City, accompa<g ref="char:EOLhyphen"/>nied by Father <hi>Franciſco
+Donati,</hi> Reader of Philoſophy, both of the Company of Jeſus, and he
+told me, That two <hi>Engliſh</hi> Noble Perſons were ſhortly to come
+thither; namely, a Gentleman and a Lady to be married together, the moſt
+Reverend the Vicar<g ref="char:EOLhyphen"/>general having granted them a Licence directed to me; and at
+the ſame time Father <hi>Gaſparino</hi> preſented the ſaid Licence to
+me, telling me, That theſe two <hi>Engliſh</hi> Perſons having given to
+each other their Word to Marry, and made Eſpouſal Promiſes and Contracts
+between them, were coming to Celebrate this Mar<g ref="char:EOLhyphen"/>riage there. I asked him, if
+they were really Catholicks? And he anſwered me, That he had inſtructed
+them for the Contra<g ref="char:EOLhyphen"/>cting Matrimony Conform to the Rites of the truly Roman
+Catholick Church; and for that purpoſe, they were gone to make their
+Devotions in the Church of St. <hi>Sebaſtian.</hi> And I
+<pb n="8" facs="tcp:101927:6"/>believe he alſo told me, they had depoſed in
+the Biſhop's Court, That they were both free from any other Matrimonial
+Ingage<g ref="char:EOLhyphen"/>ments. In the mean time, the ſaid Gentleman and Lady came in a hired
+Calaſh with two Horſes, and did alight at the Door of the Church-yard of my
+Church of St. <hi>Quirico</hi> and <hi>Julica,</hi> upon the Street called
+<hi>Via Nova;</hi> and I, with Father <hi>Gaſparino</hi> and Father
+<hi>Donati</hi> received them in the Church, where Kneeling before the High
+Altar, and making a ſhort Prayer before the <hi>Sanctiſſimo</hi> or
+Sacrament, I introduced them into my Parochial Houſe, into a Chamber up One
+pair of Stairs where my Study is, and having cauſed a Crucifix to be placed
+upon a Table, and two Cuſhions on the Ground, I asked the ſaid Gentleman
+and Lady before the Celebration of the Marriage, If according to the Licence
+brought to me by the ſaid Father <hi>Gaſparito,</hi> and by me then held in
+my Hand and ſhewed to them, they were willing to Contract Matrimony between
+them according to the Rites of the Holy Church, and they both anſwered me,
+Yes; and that they were come for that purpoſe. Then I prayed Father
+<hi>Gaſparino</hi> and Father <hi>Donati,</hi> that they would be pleaſed
+to be preſent as Witneſſes, required for the Act of the Cele<g ref="char:EOLhyphen"/>bration of
+this Marriage; and ſo in their preſence I cauſed the ſaid Gentleman and
+Lady to Kneel down before the Crucifix, and having called them by their Names,
+as in the Licence was ſet down, Saying, <hi>Lord</hi> Charles <hi>Earl
+of</hi> Banbury, <hi>are you Con<g ref="char:EOLhyphen"/>tented to take the Lady</hi> Elizabeth Price,
+<hi>now preſent, to your law<g ref="char:EOLhyphen"/>ful Wife, according to the Rites of the Roman
+Catholick Church.</hi> He anſwered me, Yes Sir. And then having asked the
+Lady, <hi>ſaying,</hi> Elizabeth Price, <hi>Are you contented to take in like
+manner for your lawful Husband</hi> Charles <hi>Earl of</hi> Banbury, <hi>now
+preſent, ac<g ref="char:EOLhyphen"/>cording to the Rites of the Holy Roman Catholick Church?</hi> and
+ſhe alſo anſwered, Yes; and in this manner having received their mutual
+Conſent, they gave hands each to other, and I ſaid theſe words of the
+Ritual,
+<note place="margin">
+                  <hi>The Latin in Engliſh ſig<g ref="char:EOLhyphen"/>nifies,</hi> I
+Joyn you in Ma<g ref="char:EOLhyphen"/>trimony, in the Name of the Father, Son, and Ho<g ref="char:EOLhyphen"/>ly Ghoſt,
+<hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </note> 
+               <hi>Ego Conjungo vos in Matrimonium in nomine Patris
+&amp; Filii &amp; Spiritus Sancti,</hi> Amen. And then I bleſſed the Ring
+which was on a Silver Plate, which I cauſed to be ſet there for that
+purpoſe; and I gave it into the Hand of the ſaid Earl <hi>Charles
+Knolls,</hi> that he ſhould put it on the Fin<g ref="char:EOLhyphen"/>ger of his Conſort
+<hi>Elizabeth,</hi> which he did. Then I procee<g ref="char:EOLhyphen"/>ded with the uſual Prayers of
+the Roman Ritual; which being ended, I cauſed them to ſtand up, and
+immediately noted down the Witneſſes required hereunto; that I might
+Regiſter
+<pb n="9" facs="tcp:101927:6"/>an Act thereof in the Book of Marriages of my
+Church; and this being done, the ſaid Gentleman and Lady took their leaves;
+But before they went away, they diſcourſed apart with Father <hi>Decio
+Gaſparino,</hi> and then in going down the Stairs, the ſaid Father
+<hi>Gaſparino</hi> gave me in the Name of the ſaid Gentleman and Lady half
+a Piſtole as a Gratuity, without any Requeſt or Demand, and I accompanied
+them thorow the Church to the Gate of the Church-yard, where I ſtopped, with
+Father <hi>Ga<g ref="char:EOLhyphen"/>ſparino</hi> and Father <hi>Donati,</hi> and I ſent my
+Servant to wait upon them to the Calaſh, where the Gentleman delivered a
+Silver Cup to him, to carry it to the Sacriſtan of the Jeſuits in St.
+<hi>Sebaſtian,</hi> where he accordingly carried it, and it was received by
+the ſaid Sacriſtan; and the ſaid Gentleman and Lady being ſeated in the
+Calaſh, they went away immediately towards <hi>Mantua,</hi> whither, as
+Father <hi>Gaſparino</hi> told me, they were going. Being interrogated of the
+Stature, Shape, and Age of the ſaid <hi>Charles</hi> and <hi>Elizabeth,</hi>
+he anſwered, The Gentleman was of middle Stature, as I think, aged about
+Thirty Years, with a Peruke and Sword, his Face rather inclining to pale than
+freſh Colour. The Lady was of an ordinary Stature, fair, dreſſed
+according to the modern Fa<g ref="char:EOLhyphen"/>ſhion of Ladies, with a Girdle cloſe to her
+Body; her Age ſeem<g ref="char:EOLhyphen"/>ed to be of Twenty Four, or Twenty Five Years, both of a
+No<g ref="char:EOLhyphen"/>ble and Courteous Aſpect. Being interrogated, if the ſaid No<g ref="char:EOLhyphen"/>ble
+Perſons <hi>Charles Knolls</hi> and <hi>Elizabeth Price,</hi> were the ſame
+Perſons, and no other Perſons; he anſwered, I know that Fa<g ref="char:EOLhyphen"/>ther
+<hi>Gaſparino</hi> told me, they were the ſame Perſons as the Licence
+mentioned, That is, <hi>Charles</hi> Earl of <hi>Banbury,</hi> and
+<hi>Elizabeth Price,</hi> of the <hi>Engliſh</hi> Nation. I took them for the
+ſame, and called them ſo in the interrogating them, and as ſuch they
+an<g ref="char:EOLhyphen"/>ſwered me, and contracted Matrimony; ſo I conjecture, that they were
+truly the ſame: And it is very true, that the Mar<g ref="char:EOLhyphen"/>riage was Celebrated by me,
+between the Articulated <hi>Charles Knolls,</hi> Earl, and <hi>Elizabeth
+Price,</hi> or <hi>Preis,</hi> in the Face of the Church, <hi>rite &amp;
+recte,</hi> as the ſaid Father <hi>Gaſparino,</hi>
+               <note place="margin">
+                  <hi>In Engliſh,</hi> Lawfully and
+Rightly.</note> and <hi>Donati</hi> can aſſert, who were preſent as
+Witneſſes required; and beſides the two Fathers, there were preſent the
+Reverend <hi>Nicholas Pi<g ref="char:EOLhyphen"/>colati,</hi> my Couſin, and <hi>Joſeph
+Tonnato,</hi> my Servant, and there were no others there, for I cauſed the
+Door to be ſhut. Being interrogated to the Second Article, if the ſaid
+Parties contract<g ref="char:EOLhyphen"/>ing did obtain a Licence from the moſt Illuſtrious and
+moſt Reverend the Biſhop, or any other Judge, <hi>&amp;c.</hi> to contract
+<pb n="10" facs="tcp:101927:7"/>the ſaid Marriage, and if they did declare
+upon Oath that they were free Perſons; he anſwered, I do very well know,
+that they did obtain a Licence, for that Father <hi>Decio Gaſparino</hi>
+de<g ref="char:EOLhyphen"/>livered me the Order to marry them, granted the Day before, being the Sixth
+of <hi>April,</hi> 1692. and directed to me, as if I had been their proper
+Pariſh-Prieſt; and as to the ſaid <hi>Charles Knolls,</hi> Earl of
+<hi>Banbury,</hi> and <hi>Elizabeth Price,</hi> having ſworn that they were
+free, I know that the moſt Reverend the Vicar of the Biſhop, on the Day
+following, when I went to acquaint him with the Celebration of the ſaid
+Marriage, told me, That he had cauſed them to be examined; and that they did
+ſwear that they were free, and he granted them the Licence or Or<g ref="char:EOLhyphen"/>der,
+<note place="margin">
+                  <hi>In Engliſh,</hi> as Travellers and in
+man<g ref="char:EOLhyphen"/>ner as is uſu<g ref="char:EOLhyphen"/>al to Travel<g ref="char:EOLhyphen"/>lers.</note> as <hi>vagi &amp; more
+vagorum.</hi> Being interrogated, if he did make any Note of the ſaid
+Marriage celebrated, as above is ſaid, in writing in any Book; he anſwered,
+Yes: That the Marriage being done, I regiſtered the Memorandum thereof in the
+Book of Marriages of my Pariſh-Church, all written with my own Hand, as now
+it is: But I do remember that I had regiſtered in my Book the Note of the
+ſaid Marriage,
+<note place="margin">Note, <hi>How very careful they were in making
+true Entries in their Books.</hi>
+               </note> only in the Name of <hi>Charles</hi>
+Earl of <hi>Banbury,</hi> according to the Epiſco<g ref="char:EOLhyphen"/>pal Order or Licence. And
+in the ſame manner, I gave out an Order or Certificate, which Father
+<hi>Gaſparino</hi> required of me; and by reaſon I had not written the
+Surname of <hi>Knolls,</hi> Father <hi>Gaſparino,</hi> in the Name of the
+ſaid Earl, applied himſelf to the Vicar, praying that his Surname
+<hi>Knolls,</hi> in regard the ſame was known to the Vicar, might be added:
+Whereupon the ſaid Vicar ſent me the Atteſtation back again, with his
+Order, with his own Hand, That I ſhould add in the Regiſter, the Surname of
+<hi>Knolls,</hi> Earl of <hi>Banbury,</hi> Son of <hi>Nicholas Knolls,</hi>
+Earl of <hi>Banbury,</hi> and make him another Atteſtation with his Surname,
+in the manner aforeſaid; which I did, and delivered it to Fa<g ref="char:EOLhyphen"/>ther
+<hi>Gaſparino,</hi> who deſired it of me. Being interrogated, if he, this
+Witneſs, made many Atteſtations in Writing at any other times of the
+Celebration of the Marriage for any other Perſon, and how, <hi>&amp;c.</hi>
+when and in what place; he anſwered, I know that ſeveral Atteſtations
+were deſired of me of this Marriage, and I made them all in manner
+above-written; that is to ſay, Twice I was deſired by Father
+<hi>Gaſparino,</hi> once by him in Perſon, which I delivered to him at the
+ſame time corrected, as above; and ano<g ref="char:EOLhyphen"/>ther time he deſired me by Letters,
+he being at <hi>Faenza,</hi> and I anſwered him it was ſuperfluous, for
+that I had made ſeveral
+<pb n="11" facs="tcp:101927:7"/>others; that is to ſay, one I made by Order of
+this Biſhop, to ſend to <hi>Venice,</hi> which he commanded me to make;
+another I made at the Requeſt of Mr. <hi>Francis Gella,</hi> Merchant in this
+City, who told me he had Orders to ſend it to <hi>London;</hi> and another
+for the moſt Reverend the Vicar-general, for that they were all deſired by
+ſeveral Hands. He further ſaith, being in<g ref="char:EOLhyphen"/>terrogated, The Place where I
+made them is my Houſe, the ex<g ref="char:EOLhyphen"/>act Time I do not remember. Being interrogated,
+if he, this Witneſs, doth know that he made an Atteſtation of the ſaid
+Marriage in Writing, in the Month of <hi>September,</hi> in the Year 1693. he
+anſwered this, I do not exactly remember the Month, but that will be ſeen
+by the Atteſtation, there being the Day, Month, and Year in it. Then he
+ſaid, Now I remember that the Atteſtation I made, by Order of the Biſhop,
+was in the Month of <hi>September,</hi> in the Year 1693. Being interrogated,
+where the Book of Matrimony of his ſaid Pariſh Church is, out of which it
+appeareth, that the Note of the Marriage, ſet down in the ſaid
+Atteſtation, was taken. He anſwered I have the Book of Marriage
+conſtantly by me, in my Study; and this Day, upon this Occaſion of my
+Examination, I cauſed my Ser<g ref="char:EOLhyphen"/>vant to bring it with me, for what Occaſion
+there might be of it, and I have it here now. Being deſired to produce the
+Book before the Biſhop, he did immediately produce a certain Book, in Folio,
+covered with Parchment, Intituled, MDCL <hi>MA<g ref="char:EOLhyphen"/>TRIMONIA;</hi> in which, in the
+Folio,
+<note place="margin">
+                  <hi>In Engliſh,</hi> Marriages.</note> of the
+Seventh Day of <hi>April,</hi> 1692. were found written theſe Words, taken
+thence by me Notary, by Order of the ſaid Biſhop, <hi>viz.
+<note place="margin">
+                     <hi>The Seventh Day of</hi> April.</note> Die
+Septimo Aprilis,</hi> 1692. <hi>Omnibus publicationibus</hi> — All
+Publications be<g ref="char:EOLhyphen"/>ing omitted, by Licence of the moſt Reverend Victor
+<hi>Gera,</hi> Vicar-general, as appeareth by an Order made the Sixth Day of
+the ſaid Month, in the Year 1692. a Marriage was actu<g ref="char:EOLhyphen"/>ally contracted
+according to the Rites of the Holy Roman Church. Each Party, upon
+Interrogations made, having firſt given their Conſent, celebrated by me
+<hi>John Baptiſt Picolati,</hi> Arch-prieſt of the Pariſh-Church of St.
+<hi>Quirico</hi> and <hi>Julica,</hi> between the Noble Lord <hi>Charles
+Knolls,</hi> Earl of <hi>Banbury,</hi> Son of <hi>Nicholas Knolls,</hi>
+Deceaſed, Earl of <hi>Banbury,</hi> Engliſh-man of <hi>Oxford,</hi> and the
+Noble Lady <hi>Elizabeth Preis,</hi> of <hi>England,</hi> both Travellers,
+having lived at <hi>Verona</hi> three Days, and in the Words following
+ſub<g ref="char:EOLhyphen"/>ſcribes his Depoſition with his own Hand, <hi>viz.</hi> I <hi>John
+Baptiſt Picolati,</hi> Doctor of both Laws, Arch-prieſt, do affirm, That I
+<pb n="12" facs="tcp:101927:8"/>have depoſed for truth as above upon Oath,
+<note place="margin">Peter <hi>Biſhop of</hi> Verona, <hi>the Judge
+by whom the Witneſſes were to be Examined.</hi>
+               </note> and Subſcribed
+with his own Hand; All this was done before the Lord Biſhop and Judge
+aforeſaid, by me Under-written Notary, the Day, Month and Year as above. So
+it is. <hi>Petrus Epiſcopus Veronenſis Judex Re<g ref="char:EOLhyphen"/>miſſorialis.</hi>
+            </p>
+            <p>The next Witneſs is,
+<note n="2" place="margin">
+                  <hi>The Reve<g ref="char:EOLhyphen"/>rend</hi> Victor Gera,
+<hi>Vicar-general of the Dioceſs.</hi>
+               </note> The moſt Reverend <hi>Victor
+Gera,</hi> Doctor of both Laws and Divinity, Arch-Dean of the Cathedral Church
+of <hi>Verona,</hi> and Vicar-general of the Biſhoprick in Spirituals and
+Temporals; who actually Swears upon the Holy Evangeliſts in the Hand of the
+moſt Reverend Lord Biſhop, in theſe words following, That he knew
+<hi>Charles</hi> Earl of <hi>Banbury</hi> and Mrs. <hi>Elizabeth Price,</hi>
+and gives the Reaſon of his Knowledge; and that two Years and a half before
+his Examination, they came to him, in Com<g ref="char:EOLhyphen"/>pany with one Father
+<hi>Gaſparino,</hi> Rector of the College of Je<g ref="char:EOLhyphen"/>ſuits, for a Licence to
+Celebrate a Marriage between them in <hi>Verona.</hi> That he told them, that
+they being Strangers, he could not do it; but cauſed the Cancellier or
+Secretary to be ſent for, upon whoſe coming, the Vicar Swears further, That
+he cauſed their Qualities to be firſt ſet down in the Acts of their Court
+upon Oath, and what they had ſaid by Word of Mouth tou<g ref="char:EOLhyphen"/>ching their being Free
+and Single, the Promiſes of Marriages that had paſſed between them, to be
+affirmed again in Writing; and having adminiſtred Oath to them upon the Holy
+Evangeliſts, on which they both laid their Hands upon the Truth of the
+Mat<g ref="char:EOLhyphen"/>ters by them related: Then Swears, That he delivered them to Father
+<hi>Gaſparino,</hi> to the End he might hear their Sacramental
+Confeſſion, and give them the Communion. And that he gave them a Licence,
+directed to the Reverend <hi>John Baptiſt Picolati,</hi> Pariſh Prieſt of
+the Church of St. <hi>Quirico</hi> and <hi>Julica,</hi> and in the Licence,
+ordered him to aſſiſt at their Marriage, and to keep an exact Note
+thereof in the Books of their Church, becauſe it was an Extraordinary Matter;
+and concludes his Evidence in theſe words, <hi>The Licence for Marrying was
+granted by me, as Vicar of the Biſhop; and they did depoſe upon their
+Oaths, that they were free and clear from all Ingagements of Marriage with any
+others, and upon that ground the Licence was granted by me.</hi> This is the
+Subſtance of his Examination.</p>
+            <p>The next Witneſs is <hi>Antony Rotaro,</hi>
+               <note n="3" place="margin">Antony Rotaro <hi>Can<g ref="char:EOLhyphen"/>cellier.</hi>
+               </note>
+Cancellier or Secretary to the Biſhop, and mentioned by the laſt Witneſs,
+who being Examined by the Biſhop himſelf, depoſes in theſe words, That
+one Evening late, in <hi>April</hi> 92. he was ſent for by the moſt
+Re<g ref="char:EOLhyphen"/>verend
+<pb n="13" facs="tcp:101927:8"/>
+               <hi>Victor Gera.</hi> When he came to his
+Chambers, which he has as Vicar in the Epiſcopal Palace, he found there a
+Gentleman and a Lady, Foreigners, not known to him, and they ſaid, they were
+come on purpoſe to get a Licence to Marry; and then, the moſt Reverend the
+Vicar, gave him Order to take their Depoſitions as to their State and
+Condition being free or ſingle; That thereupon they went with him into the
+Office of the Bi<g ref="char:EOLhyphen"/>ſhop, where being placed and ſeparately interrogated, they
+an<g ref="char:EOLhyphen"/>ſwered him, That they were by Country <hi>Engliſh,</hi> and that they
+had made Promiſes and Contracts to take each other for Husband and Wife, and
+came from <hi>Mantua</hi> to <hi>Verona</hi> to celebrate the Mar<g ref="char:EOLhyphen"/>riage; and
+that they were clear and free from any Ingagements of Marriage with any other
+Perſons, and upon the ſame, they took their Oaths upon the Holy
+Evangeliſts, as may be exactly ſeen by the Acts of Court in the Regiſtry
+where the Originals are kept; and after they were Sworn and Examined, the
+Li<g ref="char:EOLhyphen"/>cence was granted and directed to the Arch-prieſt <hi>Picolati;</hi> and
+the Order and Decree was made by him, and Subſcribed by the Vicar, and then
+the Earl and Lady were delivered to Father <hi>Gaſparino</hi> to ſeparate
+them, and Adminiſter the Holy Sacrament to them: And they called themſelves
+at that time Earl of <hi>Ban<g ref="char:EOLhyphen"/>bury</hi> and <hi>Elizabeth Price,</hi> and the
+Marriage was actually celebra<g ref="char:EOLhyphen"/>ted in all the Forms, Orders, and Ceremonies
+required and commanded by the Church.</p>
+            <p>The next Witneſs is <hi>Tonato,</hi> the Arch-prieſt's
+Servant;
+<note n="4" place="margin">Joſeph Tonato, <hi>the Arch-prieſt's
+Servant.</hi>
+               </note> and he depoſes, (being asked the Queſtion, whether he
+knew the Earl and Lady) and anſwers, Not otherwiſe than by having ſeen
+them once in the Houſe of my Maſter the Arch-prieſt when they came to be
+Married, and then heard the Gentleman called by the Name of the Earl of
+<hi>Banbury;</hi> but doth not remember the Lady's Name. Being interrogated
+whether they were Married, anſwers thus; <hi>I ſay, they were well Married;
+for I ſaw the Marriage celebrated in manner as all other Chriſtians are
+Married, and as the Holy Church doth Order and Command.</hi> Confirms the
+Teſtimony of the Arch-prieſt in every particular, and ſwears, That they
+were received at the Church Door by the Arch-prieſt, and the Fa<g ref="char:EOLhyphen"/>thers
+<hi>Gaſparino</hi> and <hi>Donati,</hi> and that they all Kneeled before the
+Tabernacle of the Holy Sacrament, and made ſhort Prayers, and then came into
+the Parochial Houſe of his Maſter, who order'd him to prepare a Table and
+place a Crucifix thereon, and lay Cuſhions for the Gentleman and Lady to
+kneel upon. And then his Maſter
+<pb n="14" facs="tcp:101927:9"/>asked them, if they were willing to take each
+other for Hus<g ref="char:EOLhyphen"/>band and Wife, calling them diſtinctly by their Names, one
+after the other; and they ſeparately anſwered, Yes. Then they gave each
+other their Hands; and the Arch-prieſt bleſſed the Ring, and then gave it
+to the Gentleman, who put it on the La<g ref="char:EOLhyphen"/>dy's Finger, and then he ſaid the
+Words of the Ritual, and regiſtred the Marriage, and the married Couple gave
+him Thanks; and as I waited on them to the Calaſh, the Earl ſaid, Come
+hither Young-man, and taking a Silver Cup out of the Seat of the Calaſh,
+delivered it to me; ſaying, Give this to the Jeſuits, to keep in Memory of
+this Marriage, which he did ac<g ref="char:EOLhyphen"/>cordingly, and ſays, then they departed and
+drove towards <hi>Mantua.</hi>
+            </p>
+            <p>
+               <hi>Nicolas Picolati,</hi>
+               <note n="5" place="margin">Nicolas Picolati, <hi>Couſin to the
+Arch-Prieſt.</hi>
+               </note> Couſin to the Arch-prieſt, depoſes, That he
+did not know the Earl and Lady otherwiſe, than as he ſaw them married by
+his Couſin the Arch-prieſt, the Seventh of <hi>April,</hi> 1692. about the
+Hour of Veſpers; and ſays, that the Marriage was valid, becauſe it was
+celebrated according to the Rites of the Church: And being interrogated,
+whether <hi>Charles</hi> Earl of <hi>Banbury,</hi> and <hi>Elizabeth
+Price,</hi> did rightly and lawfully contract Matrimony, and how, in what
+place, at what time, and before what Witneſſes; he anſwered, Yes: That
+<hi>Charles</hi> Earl of <hi>Banbury,</hi> and <hi>Elizabeth Price,</hi> did
+contract Matri<g ref="char:EOLhyphen"/>mony, and it was done in this manner. In the Morning of the
+ſecond Holy-day of <hi>Eaſter,</hi> in 1692. which was on the Seventh of
+<hi>April,</hi> his Couſin the Arch-prieſt <hi>Picolati</hi> go<g ref="char:EOLhyphen"/>ing to the
+Church of the Nuns of St. <hi>Daniel,</hi> for the So<g ref="char:EOLhyphen"/>lemnity which is made
+that Day, there to celebrate Maſs, as Con<g ref="char:EOLhyphen"/>feſſor in Ordinary of the
+ſaid Monaſtery, he found there the moſt Reverend the Vicar-General of the
+Biſhoprick, who told the Arch-prieſt that he was to celebrate a Marriage
+between a Gentleman and a Lady, Foreigners; for that he cauſed the Licence or
+Order to be directed to him, who coming Home to Dinner, told me this; and
+accordingly, about the Hour of Veſpers or ſomething ſooner, there came to
+the ſaid Parochial Houſe the Reverend Father <hi>Decio Gaſparino,</hi>
+with Father <hi>Fran<g ref="char:EOLhyphen"/>ciſco Donati,</hi> of the Company of <hi>Jeſus,</hi>
+and gave Notice to the ſaid Arch-prieſt, that Two Foreigners, a Gentleman
+and Lady, of the <hi>Engliſh</hi> Nation, would be there immediately, in
+order to be married: And the ſaid Fathers gave him the Epiſcopal Order or
+Licence. The Arch-prieſt having read the ſame, and ob<g ref="char:EOLhyphen"/>ſerved the Contents
+thereof, ſaid, he was ready to celebrate
+<pb n="15" facs="tcp:101927:9"/>the Marriage. In the mean time, a Calaſh
+ſtopped at the Court-Door, near the Church-Yard of the Church of St.
+<hi>Quirico</hi> and <hi>Julica,</hi> on the <hi>via nova,</hi> with a Man and
+Woman: And that he, by order of the Arch-prieſt, went to receive them; and
+then the Arch-prieſt, himſelf, and the Two Fathers, the Jeſuits, came to
+meet them; and after ſome Salutations, they came into the Church, where they
+kneel'd down, taking the Pardon at the High Altar before the Bleſſed
+Sacrament, and then were Conducted to the ſaid Parochial Houſe into a
+Chamber one pair of Stairs, where a Crucifix was placed on a Table, and the
+Arch-prieſt in the preſence of the ſaid two Fathers, the Je<g ref="char:EOLhyphen"/>ſuits, who
+were asked to be Witneſſes, according to the Solem<g ref="char:EOLhyphen"/>nity required in the
+like manner. And alſo in the preſence of me, and of <hi>Joſeph
+Tonato,</hi> Servant of the Houſe, being both there, asked the ſaid
+<hi>Engliſh</hi> Gentleman and Lady, if they were come to Contract Matrimony
+between them, according to the will of the Holy Church? They anſwered
+ſeverally, Yes. For tho' they could not ſpeak <hi>Italian</hi> well; yet
+they underſtood it, and made themſelves to be underſtood, ſo they gave
+their Mu<g ref="char:EOLhyphen"/>tual Conſent; and then Kneeling upon two Cuſhions before the
+Crucifix, the Arch-prieſt having firſt taken their Names and Sir<g ref="char:EOLhyphen"/>names,
+asked the Gentleman, Saying, Charles <hi>Earl of</hi> Banbury, <hi>are you
+Contented to take for your lawful Wife</hi> Elizabeth Price, <hi>now
+preſent?</hi> and he anſwered, Yes. And the Lady being like<g ref="char:EOLhyphen"/>wiſe asked
+thus, Elizabeth Price, <hi>Are you contented to take for your lawful
+Husband</hi> Charles <hi>Earl of</hi> Banbury, <hi>now alſo preſent?</hi>
+She alſo anſwered, Yes; So they gave each other their Hand, and the
+Arch-prieſt ſaid theſe words of the Roman Ritual,
+<note place="margin">
+                  <hi>In Engliſh,</hi> I Joyn you in Matri<g ref="char:EOLhyphen"/>mony,
+in the Name of the Father, Son, and Ho<g ref="char:EOLhyphen"/>ly Ghoſt, <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </note>
+               <hi>Ego Con<g ref="char:EOLhyphen"/>jungo vos in Matrimonium in nomine Patris &amp; Filii &amp;
+Spiritus Sancti,</hi> Amen. Then the Ring being bleſſed, which was on a
+ſmall Silver Plate held by the Servant of the Houſe, he gave it into the
+Hands of the Bridegroom, who put it on the Finger of the Bride, which, I think,
+was the Ring-finger of the Right Hand, as is uſual, and the Arch-prieſt
+proceeded with the other Prayers according to the Ritual of the Holy Church:
+And in this man<g ref="char:EOLhyphen"/>ner the Marriage was celebrated <hi>recte &amp; rite,</hi>
+               <note place="margin">
+                  <hi>In Engliſh,</hi> Rightfully and
+Law<g ref="char:EOLhyphen"/>fully.</note> and the Arch-prieſt Regiſtred the ſaid Marriage, as is
+uſual, and ſet down for Wit<g ref="char:EOLhyphen"/>neſſes thereunto, the two Fathers
+<hi>Donati</hi> and <hi>Gaſparino, Joſeph Tonato</hi> and my ſelf; Which
+being done, we came all down thorow the Church, where having again Kneeled
+before the Sacrament, we accompanied the Gentleman and Lady, his Bride,
+<pb n="16" facs="tcp:101927:10"/>out of the Church, who immediately taking
+leave, went to their Calaſh that ſtaid for them, and before they drove
+away, the Earl <hi>Charles</hi> took out of the Calaſh a Silver Cup, and gave
+it to <hi>Joſeph Tonato,</hi> with Orders to deliver it to the Jeſuits as a
+Gift in Memory of this Marriage, as he ſaid, and then drove towards
+<hi>Mantua;</hi> and I did not ſee them afterwards. And then being asked what
+he knew of their taking their Oaths of being free, and ſingle; anſwered,
+That of his own Knowledge he did not know that they took their Oaths; but
+ſaid, he verily believed they did, becauſe they would not have Married them
+in that Country unleſs they had taken their Oaths; And ſays further, That
+he heard them acknowledge that they had made Oath that they were free and
+ſingle:
+<note place="margin">It is to be ob<g ref="char:EOLhyphen"/>ſerved, That the Biſhops in
+thoſe Coun<g ref="char:EOLhyphen"/>tries cannot Cite any Per<g ref="char:EOLhyphen"/>ſons out of their own
+Dioceſſes.</note> And by this the Reader may ſee how cautiouſly theſe
+Witneſſes ſwear, and accordingly judge of the Truth of their
+Evidence.</p>
+            <p>The two Fathers before-named, that were preſent and
+Witneſſes to the Marriage, living out of the Dioceſs of the Archbiſhop
+of <hi>Ve<g ref="char:EOLhyphen"/>rona,</hi> to whom the Commiſſion was directed: The Archbiſhop
+firſt writes to the Archbiſhop of <hi>Bollogne,</hi> where Father
+<hi>Donati</hi> li<g ref="char:EOLhyphen"/>ved,
+<note place="margin">
+                  <hi>Father</hi> Do<g ref="char:EOLhyphen"/>nati.</note> to cauſe him
+to be Examined there, which the Archbiſhop did accordingly, and ordered the
+Vicar-general to take the Examina<g ref="char:EOLhyphen"/>tion of Father <hi>Donati;</hi> Who being
+Sworn and Examined depoſes, That he was by, and a Witneſs to the Marriage
+celebrated by the Arch-prieſt <hi>Picolati,</hi> between the Earl of
+<hi>Banbury</hi> and Mrs. <hi>Price,</hi> Swears it was a Valid and Lawful
+Marriage according to the Rites of the Church, and confirms all that the other
+Wit<g ref="char:EOLhyphen"/>neſſes ſay as to the Marriage in Manner, Form and Subſtance in
+every particular Circumſtance.</p>
+            <p>The laſt Witneſs to the Marriage is Father
+<hi>Gaſparino,</hi>
+               <note place="margin">
+                  <hi>Father</hi> Gaſ<g ref="char:EOLhyphen"/>parino.</note> who be<g ref="char:EOLhyphen"/>ing
+at <hi>Faenza,</hi> the Archbiſhop of <hi>Verona</hi> wrote to Cardinal
+<hi>Nige<g ref="char:EOLhyphen"/>roni</hi> Biſhop of that Place, to cauſe him to be carefully
+Examined; and he depoſes, That the Earl and Lady came to him and deſired
+him to aſſiſt them in a Marriage which they were minded to Con<g ref="char:EOLhyphen"/>tract, and
+did actually Contract; And being interrogated, whe<g ref="char:EOLhyphen"/>ther he knew what he was to
+be Examined about? anſwered, <hi>Yes, I do; It is to Prove a Marriage between
+the Earl of</hi> Banbury <hi>and Mrs.</hi> Elizabeth Price <hi>which he
+denies;</hi> and then uſes theſe words, That the Earl of <hi>Banbury</hi>
+doth falſly deny that he Married the Lady <hi>Elizabeth</hi> Counteſs of
+<hi>Banbury,</hi> then <hi>Elizabeth Price,</hi> being ſingle and free from
+all Marriage Promiſes or Contracts with any other, as ſhe affirmed upon
+Oath before the Vicar-general and the Cancellier
+<pb n="17" facs="tcp:101927:10"/>of the Biſhop of <hi>Verona,</hi> and ſays,
+That the above-named Noble Lord <hi>Charles Knolls,</hi> being likewiſe free
+from all Marriages or Matrimo<g ref="char:EOLhyphen"/>nial Contracts with any other, as he affirmed
+alſo upon Oath, be<g ref="char:EOLhyphen"/>fore the ſaid Vicar and Cancellier of <hi>Verona;</hi>
+and being in this Freedom lawfully and notoriouſly, ſolemnly contracted
+between them a true, pure, and lawful Marriage in the Face of the Church,
+before the Reverend <hi>John Baptiſt Picolati,</hi> Arch-prieſt of St.
+<hi>Quirico</hi> and <hi>Julica,</hi> in the City of <hi>Verona:</hi> And
+before the Marriage, the ſaid <hi>Charles Knolls</hi> owning himſelf to be
+Earl of <hi>Banbury,</hi> obtained a Licence from the Vicar, and declared
+before the ſaid Licence was granted, upon Oath, That he was free from all
+matrimonial Contracts with any other; and preſently after the ſolemnizing
+the Marriage, they went away in a Calaſh together, towards <hi>Mantua.</hi>
+This Witneſs was examined at <hi>Faenza,</hi> by the Vi<g ref="char:EOLhyphen"/>car-general, Judge,
+ſubſtituted for that purpoſe by the moſt Eminent and moſt Reverend
+Lord Cardinal <hi>Nigeroni</hi> Biſhop of the City.</p>
+            <p>And now having given an Account of what was done abroad, before my
+Marriage, I ſhall in as few Words as poſſible, inform the Reader what was
+done immediately after I was married, when we returned to <hi>Mantua;</hi> and
+for that purpoſe, I ſhall only pro<g ref="char:EOLhyphen"/>duce Two Witneſſes, <hi>Vincent
+Paveſio,</hi> a Nobleman,
+<note place="margin">Vincent.</note> and <hi>Pompeio Salvio,</hi> a
+Merchant, both of <hi>Mantua;</hi> who living there, the Archbiſhop of
+<hi>Verona,</hi> in manner as in the Caſes before men<g ref="char:EOLhyphen"/>tioned, writes to the
+Biſhop of <hi>Mantua,</hi> to cauſe them to be examined; who thereupon,
+orders his Vicar-general to do it: And <hi>Vincent Paveſio</hi> being
+examined, depoſes, That he very well knew the Earl and Lady was their Friend,
+and lent and diſ<g ref="char:EOLhyphen"/>burſed Money for them in their Journey to <hi>Paris;</hi>
+and ſays, They lay five Days in his Brother's Houſe, a Nobleman of
+<hi>Mantua;</hi> were reputed Husband and Wife by all the Gentry and Nobility;
+and as ſuch, demeaned themſelves openly and publickly: And they went from
+his Brother's Houſe to <hi>Pom<g ref="char:EOLhyphen"/>peio</hi>'s, and there lived in the ſame
+manner. And he ſays, That in <hi>April,</hi> 1692. the Earl invited him and
+his Brother, and Wife, to a Dinner, which he prepared in memory of the
+Birth<g ref="char:EOLhyphen"/>day of the Lady <hi>Elizabeth,</hi> deſiring us to bring ſome other
+Gentry along with us; which we did, and there they were openly and publickly
+ſaluted, as Husband and Wife, and taken as ſuch by all the Gentry, for that
+otherways they would not have come to the Feaſt: And depoſes, That he
+travelled with them towards <hi>Paris,</hi> and ſaw and read their Paſs
+from the King
+<pb n="18" facs="tcp:101927:11"/>of <hi>France,</hi> as Husband and Wife; and
+after parting, there came Letters from the Earl, directed to the ſaid Lady
+<hi>Elizabeth,</hi> which I ſaw, with this exact Superſcription, <hi>A
+Madama Madam La Counteſſe de Banbury;</hi> and ſays, That the Duke of
+<hi>Mantua</hi> honoured them with coſtly Preſents when they left
+<hi>Mantua,</hi> and upon the Earl's Requeſt, gave him, the deponent, Leave
+to tra<g ref="char:EOLhyphen"/>vel with them into <hi>France,</hi> and ſaw ſeveral Letters directed
+to her as Counteſs of <hi>Banbury,</hi>
+               <note place="margin">Pompeio, <hi>the Mer<g ref="char:EOLhyphen"/>chant.</hi>
+               </note> from the
+Earl and other Perſons. The laſt Foreign Witneſs is Mr. <hi>Pompeio,</hi>
+the Merchant, at whoſe Houſe they lived in <hi>Mantua:</hi> And he
+ſwears, That he knew the Earl and Lady; That they came from the Houſe of
+<hi>Seignior Antonio Paveſio,</hi> Treaſurer to the Duke's Houſhold, and
+there continued for three Months; ſo that he had Converſe with them, and
+ſerved them with what they had occaſion for, and took them for Husband and
+Wife; and they treated each other as ſuch, were ſo held and reputed by
+their Serene High<g ref="char:EOLhyphen"/>neſſes: For that our moſt Serene Dutcheſs did always
+admit my Lady to be her Companion, and to play with her in her Court. I could
+have produced ſeveral more Witneſſes, if it had been needful, beſides
+authentick Atteſtations and Certificates.</p>
+            <p>Amongſt many others that are Regiſter'd in <hi>Doctors
+Com<g ref="char:EOLhyphen"/>mons,</hi> I ſhall conclude my Foreign Concern with the Two fol<g ref="char:EOLhyphen"/>lowing
+Atteſtations, which ſurely make a compleat and full Proof of my
+Marriage.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>WE <hi>Peter Leon,</hi> by the Grace of God, and the
+Apoſtolick See, Biſhop of <hi>Verona,</hi> and Count, <hi>&amp;c.</hi> To
+all to whom this preſent Proceſs ſhall come, do certifie for undoubted
+Truth, and atteſt, That all the Premiſes in this preſent Proceſs
+contained, were written and ſubſcribed with the proper Hand of the
+<g ref="char:V">Ʋ</g>nder-written Notary, by us ſpecially deputed in this preſent Cauſe;
+and that the Acts and Examinations of the Witneſſes were had, and taken
+be<g ref="char:EOLhyphen"/>fore us in our Preſence. In Faith and Teſtimony whereof, we have thought
+fit to put hereunto this our Atteſtation; and we have ſub<g ref="char:EOLhyphen"/>ſcribed the
+ſame with our own Hand, and ordered the great Seal of our Biſhoprick to be
+hereunto put. <hi>Given in</hi> Verona, <hi>from our Epiſcopal Palace,
+on</hi> Friday <hi>the Seventeenth Day of</hi> September, <hi>1694.</hi> Sec.
+Jud.</p>
+                  <closer>
+                     <signed>Petrus Epiſcopus
+Veronenſis.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <pb n="19" facs="tcp:101927:11"/>
+                        <hi>I Bernard Roveti,</hi> Son of
+<hi>Francis,</hi> of <hi>Ponte Petro,</hi> in <hi>Verona;</hi> Publick Notary
+by the <hi>Venetian</hi> Authority, and Clerk of the Biſhop's Court, in this
+preſent Cauſe; ſpecially deputed by the moſt Illuſtrious and Reverend
+Father in Chriſt, and Lord <hi>Petro Leone,</hi> Biſhop of <hi>Verona,</hi>
+and Count, <hi>&amp;c.</hi> Do atteſt, That I as Notary thereunto required,
+was preſent at all, and ſingular the Premiſes; and did faithfully write
+with my own Hand, in valid and authen<g ref="char:EOLhyphen"/>tick Form, this preſent Proceſs,
+conſiſting of Ninety Nine Leaves. <hi>In Witneſs,</hi>
+&amp;c.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>Having given an Account of what was done abroad, I ſhall now
+proceed to give the Reader a ſhort and punctual Relation of what paſſed
+in my own Cauſe afterwards. My Lord parted with me at <hi>Nona,</hi> in
+<hi>Italy,</hi> and ordered me for <hi>France</hi> when he parted from me;
+aſſuring me, That he would go and ſettle his Affairs in <hi>England,</hi>
+with all the Care and Speed he could, and come to me at <hi>Paris</hi> as
+ſoon as his Affairs would permit.</p>
+            <p>And accordingly I went to <hi>Paris,</hi> where I ſtayed until
+<hi>Septem<g ref="char:EOLhyphen"/>ber;</hi> in which time, having ſpent that ſmall Proviſion my
+Lord left me, and himſelf neither coming nor ſending me any Supply, my
+Equipage and Character having drawn me alſo to a more than ordinary Expence,
+I was driven to great Streights to ſupport my ſelf: And being informed,
+That Mrs. <hi>Bowtel,</hi> who then lived in a Monaſtery there, under the
+Care and Government of Father <hi>Sherburne,</hi> Preſident of the
+<hi>Engliſh</hi> Be<g ref="char:EOLhyphen"/>nedictines, had received a conſiderable Summ of Money,
+I was forced to apply my ſelf to her, for Money to diſcharge the Debts I
+had contracted, and to carry me into <hi>England;</hi> and by the Approbation
+of Father <hi>Sherburne,</hi> I did borrow a Hundred Pound of her, and
+prevailed with her to come with me for <hi>England,</hi> and for our better
+Conveniency in travelling, ſhe did procure a Paſs, both for me and her
+ſelf, in the Names of <hi>Ridley,</hi> which was her Mother's Maiden Name,
+deſigning to conceal my ſelf as well in <hi>England</hi> as in my Travel,
+till I underſtood my Lord's Reſolutions touching the Diſpoſition he
+intended to make of himſelf and me; and with that Paſs we travelled, and
+came to <hi>London</hi> to my Siſter <hi>Brownſworth</hi>'s Houſe, and
+immediately diſ<g ref="char:EOLhyphen"/>patched a Servant to my Lord. Upon this Meſſage, he came
+to me without any Delay, and entertained me with the great<g ref="char:EOLhyphen"/>eſt
+<pb n="20" facs="tcp:101927:12"/>Tenderneſs imaginable: But having at that
+time a purpoſe to ſell his Eſtate, he deſired me to conceal my being in
+Town, and not to appear, at preſent, under the Character of his Wife, but to
+paſs ſtill by the Name of <hi>Ridley;</hi> to which, in Obedi<g ref="char:EOLhyphen"/>ence, I
+ſubmitted, and this Diſguiſe was the Source of all the miſeries that
+have ſince befallen me: For had I but publiſhed my Marriage inſtead of
+this Complaince, Mrs. <hi>Litſter</hi> had ne<g ref="char:EOLhyphen"/>ver been heard of under any
+other Character, but that of a Miſtreſs.</p>
+            <p>Unfortunate Mr. <hi>Lawſon,</hi> in all Probability ſtill
+living, and your Lordſhip clear and free from Crimes, That out of the
+Re<g ref="char:EOLhyphen"/>ſpect I ſtill retain for your Lordſhip, I will not mention at this
+time. The vaſt Expences in Law had been ſaved, and your Lordſhip
+undoubtedly much Richer without your Miſtreſs, and the Summs you borrowed
+of her, upon your Plate and Jewels, long after your pretended Marriage with
+her: And when you lived publickly with me, and owned me for your Wife, as by
+your Letter to your Steward <hi>Palmer,</hi> proved in the Cauſe, and
+confeſſed by your Lordſhip, moſt evidently appears: And when the Reader
+ſhall have peruſed your Lordſhip's own Let<g ref="char:EOLhyphen"/>ters, and conſidered the
+further Proofs, I hope he will be of the ſame Opinion. For I am reſolved to
+keep my Word, and alledge nothing in this Paper, but what is proved by
+undenia<g ref="char:EOLhyphen"/>ble Teſtimony, or by your own Letters and Confeſſion; and
+therefore, I am now to acquaint the Reader, That from the time of my Return to
+<hi>England,</hi> his Lordſhip lived with me in the moſt affectionate
+manner imaginable, until he went to viſit his Si<g ref="char:EOLhyphen"/>ſter the Lady
+<hi>Katharine,</hi> at <hi>Thiſtleworth.</hi> And in order to ſa<g ref="char:EOLhyphen"/>tisfie all
+Mankind, and confirm them in the Truth of what I write, it ſeems
+neceſſary for me to give the Reader an Account of my Lord's Behaviour to me
+when he was firſt taken, after the Death of Mr. <hi>Lawſon,</hi> and was in
+the Hands of the Con<g ref="char:EOLhyphen"/>ſtable, and in the ſeveral Priſons of
+<hi>Newgate,</hi> and <hi>King</hi>'s-<hi>Bench,</hi> and likewiſe when I was
+ſick and ill, at which time he now pre<g ref="char:EOLhyphen"/>tends Mrs. <hi>Litſter</hi> was his
+Wife; and for this purpoſe, I will only produce ſuch of his own Letters as
+have been judicially proved and owned to be his own Hands, in <hi>Doctors
+Commons,</hi> and remain there Regiſtred. Although I have, and can pro<g ref="char:EOLhyphen"/>duce
+Hundreds more, and make up a compleat Journal for all the Days he did not ſee
+me, after I came into <hi>England,</hi> to the time of the Breach between
+us.</p>
+            <pb n="21" facs="tcp:101927:12"/>
+            <p>I ſhall begin with the Letter he wrote to me, the Moment after
+he was taken upon the Unfortunate Accident of the Death of Mr.
+<hi>Lawſon.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <p>I Have happened of an unlucky Accident, have fought and
+unhappily killed Mr. <hi>Lawſon,</hi> but am not a bit wounded nor hurt; But
+as I went to make my Eſcape, they raiſed Men and took me with a
+Conſtable; but don't be frighted, for no Harm can come to me, only a little
+trouble and hinderance of your Company for the preſent; I hope to ſee you
+this Evening, though I muſt firſt get Bail. Adieu. Be not frighted, and all
+is well.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Love,</salute>
+                  </opener>
+                  <p>MY Lord Chief Juſtice refuſed me Bail, and ordered my
+Commitment. I am at Captain <hi>Richardſon</hi>'s Houſe at
+<hi>Newgate-ſtreet,</hi> where I believe I ſhall be civilly trea<g ref="char:EOLhyphen"/>ted; but
+all Confinements are Painful, eſpecially when baniſh'd what they Love. I
+hope ſoon to come to Trial. The Coroner that Sits upon the Body may do me
+great Kindneſs as he gives in his Verdict; I believe he will Sit on the Body
+to Morrow: I fear it will be Expenſive. The Wound is ſo odd, that it is not
+hard to believe he hurt himſelf in his Fall; if ſo 'tis found, I ſhall be
+acquitted. Adieu. I'll Dream of, what I cannot ſee, Yours. 'Twill be too late
+to Night, but to Morrow Night, if you think fit.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>Pray, my Love, don't you concern your ſelf at what happens,
+for nothing, I hope, can touch my Life, that's pretty ſafe; and I don't at
+all queſtion but all will go well. 'Tis too late now to do any thing with the
+Conſtables, and therefore I wou'd not have you appear in it. I have this Day
+followed my Buſineſs with more than ordinary Care, and doubt not a good
+Proceeding, which you ſhall have a conſtant Account of as any Buſineſs
+happens. Sir <hi>Eraſmus Norrich</hi> came and prevented me from finiſhing
+of it, or I had ſent the Meſ<g ref="char:EOLhyphen"/>ſenger three Hours ſooner. Adieu, my Love,
+be Merry and I am ſo, </p>
+                  <closer>
+                     <signed>Yours.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="22" facs="tcp:101927:13"/>
+            <floatingText type="letter">
+               <body>
+                  <p>I Sent my Servant to acquaint you, we was deferred till
+<hi>Monday,</hi> and do apprehend that we may have ſome Trick ſhewed us
+then to hinder my being Bailed.
+<note place="margin">Note, <hi>He makes his Concern
+Mine.</hi>
+                     </note> If there be not ſome Advice or Care taken to make Mr.
+<hi>A—S.</hi> my Friend, to whom the Attorney-General has left my
+Buſineſs; he is a Man to be dealt with <hi>by Money,</hi> and may be Five
+or Ten Guinea's diſpoſed by a good Hand, and privately, may pre<g ref="char:EOLhyphen"/>vent his
+being miſchievous; Perhaps <hi>J—N.</hi> will undertake it. But this
+muſt be done ſpeedily: I ſhall add no more till I ſee you. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Love,</salute>
+                  </opener>
+                  <p>I Have received both your Letters laſt Night and this Morning,
+and I find that Company goes and comes ſo faſt, that it would be
+troubleſome to you to let me ſee you. Pray be not diſſatisfied, for I
+hope all will go well, my only preſent Care is to Expedite my Trial this
+Seſſions. They ſay, it would be neceſſary to have my Solicitor attend
+the Coroner's Inqueſt, with my Servants that ſee me go out of the Houſe,
+whether friendly or not. <hi>A—B.</hi> kindly ſent Mr. <hi>James</hi>
+to recommend a Solicitor. I would have your Siſter inform of her what He is,
+and if acquainted with theſe Af<g ref="char:EOLhyphen"/>fairs. Your Brother came kindly to me, and I
+think it would not be amiſs that the Coroner was friendly diſcourſed; for
+it will be Conſiderable, as he gives in his Verdict; for if he ſhould be
+poſſeſs'd that he might poſſibly wound himſelf, it will be found
+<hi>Ignoramus,</hi> or otherwiſe it may be but Man's Slaughter; tho' there is
+already an unlucky Report raiſed of what he ſaid at his Houſe, and that
+he came to juſtifie himſelf: But this will be hard to be Proved. If the
+Solicitor be found proper for me, the ſooner I ſee him the better.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Love,</salute>
+                  </opener>
+                  <p>FInding you pretty well ſatisfied, and pleaſed to ſee my
+Friends ſo Induſtrious to Serve me, makes me as Chearful as I can be in
+your Abſence. I have been forced to delay the Meſſenger till now, by
+reaſon of Company. Hoping to ſee you this Evening. I won't inlarge more
+than that no Misfortune can alter my Love, which ye will be now better
+Convinced of. Adieu. </p>
+                  <closer>
+                     <signed>Yours.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="23" facs="tcp:101927:13"/>
+            <floatingText type="letter">
+               <body>
+                  <p>I Find, my Love, that Mr. <hi>Lawſon</hi>'s Relations, or
+ſome one under-hand, will put me to all the Trouble they can. They are now
+finding a new Indictment by <hi>Charles Knowls,</hi> 
+                     <abbr>Eſq</abbr>
+becauſe they find they could not try me here; which, I fear, will hinder me
+of Bail; I have ſent for Councel which ſhall be inſtructed to inſiſt
+upon my Peerage: The iſſue, I hope, can be no Damage to me, but only
+preſent Trouble and Expence: Therefore don't be frightned. </p>
+                  <closer>
+                     <signed>
+                        <hi>I Reſt though Infortunate
+Yours.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Love,</salute>
+                  </opener>
+                  <p>I Have partly anſwer'd the Contents of Yours, and did
+de<g ref="char:EOLhyphen"/>ſire that the Money might be brought as ſoon as conve<g ref="char:EOLhyphen"/>niently by one you
+think proper, not to give you the trouble; hoping ſoon to be with you, if my
+Lord Chief Juſtice will ac<g ref="char:EOLhyphen"/>cept of Bail, which I hope I need not fear;
+therefore will not detain your Meſſenger. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Can now, my Love, give you Hopes of paying you a Viſit in
+your new Lodgings. This Night my Lord— and my Lord— will be my
+Bail; I ſhall not trouble you with more at preſent till I ſee you. I
+doubt I ſhall want immediate Moneys for paying my Fees. If ye can, ſend by
+ſome one. Adieu. </p>
+                  <closer>
+                     <signed>Yours.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Love,</salute>
+                  </opener>
+                  <p>THe Attorney-General and Lord Chief Juſtice have been ſpoke
+to, that I may be Tried at the <hi>King</hi>'s-<hi>Bench</hi> Bar; They ſay
+they won't oppoſe it; but till the King has been ſpoke to, they cannot
+reſolve it; but they tell me he never refuſed. I have wrote to my Lord
+<hi>M.</hi> of <hi>C</hi>— to deſire him to ſpeak for me. I have
+ordered ſome Wine for you; but will omit the reſt till I ſee my Love.
+Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Have nothing more, my Love, to ſay to Mr. <hi>Darnhill,</hi>
+but that 'tis ſuſpected the Court and Judges will maintain the Reply of the
+Attorney-General, which may put me by the Proof of the new Witneſſes I have
+found out, or if they take time to Conſider whether he will admit to Bail, or
+if they can refuſe it. I am Sorry to hear my Dear did not Sleep well;
+<pb n="24" facs="tcp:101927:14"/>I hope your Dreams portend no ill to your
+ſelf, and I am pre<g ref="char:EOLhyphen"/>pared for the worſt of Ills while you are ſafe.
+Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>THat which is my momentary Thought or Buſineſs of my Life, I
+am not eaſie to forget; but being an abandoned Priſoner, I had no body to
+ſend to my Love, but wait your Company with impatience. Juſt as yours came
+I was fallen aſleep, but awaked ſoon with Satisfaction expecting you.
+Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>AFter my Love was gone, I reflected that you went away
+diſſatisfied, which gave me great uneaſineſs. I have been imployed all
+this Morning in diſperſing Letters amongſt the Lords, or I had wrote to
+you ſooner: and this is all the Paper I have left; therefore hope you will
+Pardon it. My Head Akes with the illneſs of the Weather and pains taking: If
+I make no long Epiſtle, I know you will forgive me, and let me ſee you as
+ſoon as you dare venture out. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Have not been leſs impatient than you ſeem to have been,
+for ever ſince Candle-light I have expected at every Knock of the Door it was
+you, and ran thither, as if I had been turned Porter. Lady <hi>Katharine</hi> I
+have not heard of ſince: But pretty Ladies, you know, have ſhort Memories;
+Therefore it is pardonable in them to forget, I ſhall the leſs forgive what
+has prevented me of your Company. The Night proved very ill, and tho' it may
+have deprived me of your Converſation, yet will I pleaſe my ſelf to think
+it may have prevented your taking Cold. Was I not Vain enough to think you did
+not want an Invitation, I would have robbed my Landlord's Book of all its
+<hi>Cupids</hi> to have ſent you to me. In the interim, Reſt as in
+Obedience to my Love and your Will. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I'M very ſorry, to hear my Love paſt her Night ſo
+indif<g ref="char:EOLhyphen"/>ferently, but think you did very well to be let Blood, and hope you will
+find great Relief from it. I made alſo, a very uneaſy Night, 'tis but
+reaſonable I ſhould ſympathize with my Dear. Our Major was very ill in
+the Night, and I was alarmed to give him ſome <hi>Hungary</hi>-Water. I hope
+this will find my Love much better; yet I would adviſe you, by all means, to
+take Care you don't get cold after your
+<pb n="25" facs="tcp:101927:14"/>Bleeding. This Day has ſeemed longer than
+any yet, ſince I knew my Dear's Illneſs. Pray make much of your ſelf,
+that you may be well againſt I make you a Viſit. My love will forgive my
+ſo often giving her the trouble of ſending, my Footman bringing me word
+that you was very ill this Mor<g ref="char:EOLhyphen"/>ning, and could not write, makes me very
+uneaſie till I know how you are. Pray let me beg you, if you find your ſelf
+con<g ref="char:EOLhyphen"/>tinue ill, that you will ſend for Doctor <hi>Ratcliff,</hi> or ſome
+able Phyſician, and don't delay it till it be too late, for fear of Expences;
+for the latter may be of worſe Conſequence than the firſt. I hope you
+have Somebody to divert you, for the Weather is ſufficient to make thoſe
+Melancholy that are well. Adieu, my Life, make much of your ſelf and me. I
+have given my Man Coach-hire to make haſte.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <head>
+                     <hi>For Mrs.</hi> Brownſworth.</head>
+                  <opener>
+                     <salute>Madam,</salute>
+                  </opener>
+                  <p>I Do not write to your Siſter for diſturbing her with
+an<g ref="char:EOLhyphen"/>ſwering it, but rather chuſe to be inform'd of her Health by you. We
+muſt endeavour to flatter her with the Name of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> to Morrow,
+for coming to me, and then diſſwade her till next Day; and then put her off
+till it be proper for her: For ſhould ſhe venture out too early, and get
+new Cold, a Relapſe might be worſe than the former. With my Love
+preſented to her, this is all from <hi>Madam,</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Humble Servant.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Am glad to hear my Love's ſomething better; but of all
+means, I would not have her think of coming abroad as yet, for that would
+fright me out of my Wits. My Life, I hope, will reſt well to Night; and then,
+I doubt not to hear ſhe's much better. I'm ſure, if ſhe loves me, ſhe
+will be care<g ref="char:EOLhyphen"/>ful not to take Cold, nor let any thing diſquiet her. I wiſh
+my Love good Reſt, and that will make me happy.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Shall not ſay much to diſſwade my Love from coming,
+ſince ſhe is ſo reſolved; but I fear coming abroad too early may be
+prejudicial to her: 'Tis an ugly, ſtormy, windy Day; beſides, I dreamed an
+odd Dream. To Morrow is <hi>Childermas-Day,</hi> and I ſhould not approve of
+your coming till
+<pb n="26" facs="tcp:101927:15"/>
+                     <hi>Thurſday;</hi> but if ye will wear the
+Breaches, pray lap your ſelf warm, and let the Chair bring you to the Steps
+of the Houſe, and take you up within your own Houſe; for it is very Cold,
+and you muſt needs be very ſenſible of the Air. Adieu. </p>
+                  <closer>
+                     <signed>Yours.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Am concerned to hear you have paſt your Night ſo ill, but
+I, in ſome meaſure, have ſympathized; and, had I poſſeſt you within
+my wonted Arms, I ſoon would have rockt you to more quiet Slumbers. I have
+ſent you Two Prayer-Books, that you may be ſure of being in the Right. I
+ſhall expect you early. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Had wrote to my Love Yeſterday in the Afternoon, but that I
+was afraid ſhe would take the trouble to anſwer it; which I feared might
+diſturb her too much, nothing at preſent being ſo beneficial for her
+Recovery as Reſt, and keep<g ref="char:EOLhyphen"/>ing her ſelf quiet: I therefore writ to your
+Siſter, which my Man found at her own Houſe, and ſhe forbid him com<g ref="char:EOLhyphen"/>ing
+to you for fear he ſhould diſturb you; but I was very angry with him. I
+hope to hear of my Love's Amendment daily, though by no means I would have her
+think of coming abroad as yet, for a Relapſe might be far more dan<g ref="char:EOLhyphen"/>gerous
+than at firſt, and detain me a longer time from ſeeing you, which would be
+a far greater concern to me: Therefore pray my Dear be ruled, and don't be too
+ventureſom at firſt. Adieu, <hi>Mea Cara fiole.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Am in hopes my Love found a Confirmation of her better Health
+at her Up-riſing, and am ſatisfied ſhe need not many Invitations to come
+to ſee me; I ſhall attend that Satis<g ref="char:EOLhyphen"/>faction with Impatience. The Company I
+expected we had; but the real Mirth fell ſhort, my Love being not a Partaker:
+I ſhall not inlarge much to Night, being late; But that I will Dream of my
+Love, and Fancy the reſt. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Sunday</hi>
+Morning.</date>
+                     </dateline>
+                  </opener>
+                  <p>IT has been ſuch exceſſive bad Weather ſince I ſaw my
+Love, that I have ſat in fear leſt you ſhould adventure to make me a
+Viſit, nor durſt I ſend to forbid, leſt you might have ſuſpected I
+had ſome Deſign in it; Yet, I confeſs, I ſhould
+<pb n="27" facs="tcp:101927:15"/>not have taken it ill, if my Love had
+favoured me with a Line or two, to have aſſured me of her Health, and that
+ſhe got well home, being ſhe was alone, made me the more Impatient to hear
+from you. I won't tell you it diſturbed my Nights ſleep, or that I feared
+your Company might be better di<g ref="char:EOLhyphen"/>verted than in dull Thoughts of me. However, I
+hope this will find my Love in perfect Health, to which a good Fire ren<g ref="char:EOLhyphen"/>ders
+much Comfort at preſent. I have ordered them to bring you a Bottle of ſweet
+Wine to drink my Health, and I will do you reaſon in the ſame; who, tho'
+Confined in Perſon, my good Wiſhes purſue you ever. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Hope my Love is well, yet have I been much diſturbed by ill
+Dreams of you; I gueſs it might proceed from ſome Cold I have taken, which
+perhaps made my Reſt the more un<g ref="char:EOLhyphen"/>quiet: Your Company Early may help to
+diſſipate my Me<g ref="char:EOLhyphen"/>lancholy Thought. Adieu.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>I Am glad to hear my Life finds her ſelf better ſince her
+Sit<g ref="char:EOLhyphen"/>ting up, I think you did very well in not Venturing out this Cold Weather;
+be it any way for the Safety of your Health, I take it kindly your Obedience;
+but I meant only your <hi>Italian</hi> Breeches would do well to defend you
+from the Cold. Your Brother is here, and we are going to divert at Back-gammon.
+I joy in my Dears better Health. Buſineſs is in a pretty for<g ref="char:EOLhyphen"/>wardneſs,
+and I hope will do well: I han't time to enlarge, but wiſh my Love a good
+Night's Reſt, and pray for the Conti<g ref="char:EOLhyphen"/>nuance of your Health. </p>
+                  <closer>
+                     <signed>Who am ever Yours.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Love,</salute>
+                  </opener>
+                  <p>I Fear the Weather will be Catching in; If it Rain it will
+ſpoil our Diverſion abroad; But if my Love has a Mind to go to the Park, I
+would have her with Mrs. <hi>Darnhill.</hi> How<g ref="char:EOLhyphen"/>ever I have Buſineſs after
+Dinner at the <hi>Temple,</hi> and I will call at the Serjeants to know how you
+diſpoſe your ſelves. Adieu.</p>
+               </body>
+            </floatingText>
+            <p>The very next enſuing Paragraph will explain the meaning, and
+give you the reaſon of his writing this Letter.</p>
+            <pb n="28" facs="tcp:101927:16"/>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Love,</salute>
+                  </opener>
+                  <p>MY hopes are again vaniſh'd, I have diſcours'd the Marſhal
+and Mr. <hi>Framdon</hi> both, and find it will not be per<g ref="char:EOLhyphen"/>mitted me to ſtir
+out, and therefore do deſire to ſee you, and we will agree what to do in
+our Affairs.</p>
+               </body>
+            </floatingText>
+            <p>For my Lord not being admitted to Bail was removed from
+<hi>Newgate</hi> to the <hi>King</hi>'s-<hi>Bench</hi> Priſon, and there like
+to continue for a longer time than expected; during which time, finding it
+incon<g ref="char:EOLhyphen"/>venient for me to go and come to him every Day from my Siſter's Houſe
+in St. <hi>James</hi>'s-<hi>ſtreet,</hi> the Marſhal keeping him a Cloſe
+Priſoner, he took a Lodging for me at one Mrs. <hi>Fletcher</hi>'s Houſe in
+<hi>Southwark,</hi> not far from the Marſhal's Houſe, and ſuch was his
+Care and Tenderneſs of me,
+<note place="margin">Mr. <hi>Fletcher.</hi> Mrs. <hi>Fletcher.
+Margaret Vaſſal. Chriſtopher Blower.</hi>
+               </note> that he hired a Coach by
+the Week to bring me to him, and never ſuffered me a Day from him, nay
+ſcarce an Hour; Entertained my Brother with all the Friendſhip and
+Kindneſs of a Brother; Owned my Mar<g ref="char:EOLhyphen"/>riage, and often aſſured him, that as
+ſoon as he was out of his Troubles, would do it publickly, and his Servants
+attended me and paid me the reſpect due to his Wife, upon all Occaſions,
+gave me Title of <hi>their Lady,</hi> and <hi>your Honour,</hi> declared to
+Mrs. <hi>Fletcher,</hi> where I Lodged, that I was his Lady and Wife tho'
+called <hi>Ridley.</hi> In all this time, I never heard the leaſt Syllable of
+Mrs. <hi>Litſter;</hi> nor did ſhe ever ſo much as appear ei<g ref="char:EOLhyphen"/>ther by her
+Self or Relations to my knowledge: Nor did my Lord ſo much as acquaint me,
+that he knew any ſuch Perſon: and ſo Matters continued whilſt my Lord
+was in the <hi>King</hi>'s-<hi>Bench.</hi> And by this time, I hope, I have
+given the Reader an undeniable Proof of my Lord's Conjugal Affection to me
+during all the time of his Troubles.</p>
+            <p>Upon the Third of <hi>May</hi> 1693. He was by <hi>Habeas
+Corpus</hi> brought to <hi>Weſtminſter,</hi> in order to be Bailed, and was
+that Day ſet at Liberty; and as the Keepers were carrying him up, he came to
+Mr. <hi>Fletcher</hi>'s Houſe, where I lay, and gave me Notice of his going
+to be Diſcharged from Priſon, with Orders to re<g ref="char:EOLhyphen"/>move my Lodgings and go to
+my Siſters; where, he told me, he would come to me as ſoon as his
+Buſineſs was done in Court. And that Day, as ſoon as he parted with his
+Bail, he came to me at my Siſter's; and from that time was daily and hourly
+with me, carried me Abroad with him, ſeldom Dined or Supped from me, and in
+this appearance of Kindneſs and Friendſhip
+<pb n="29" facs="tcp:101927:16"/>lived with me till <hi>June.</hi> And then went
+upon ſome occaſion to his Houſe at <hi>Thiſtleworth,</hi> where his
+Siſter the Lady <hi>Ka<g ref="char:EOLhyphen"/>tharine</hi> then lived, where he made a ſtay of
+about Four or Five Days. Upon his coming back he ſeemed very much altered,
+and after ſome Diſcourſe about the Sale of his Eſtate, he told me, It
+would be of Service to him for me to ſubſcribe a Paper pur<g ref="char:EOLhyphen"/>porting a
+Diſclaimer of my Marriage. This Paper was in Form, and ready prepared: I was
+ſurprized at it upon the View of the Con<g ref="char:EOLhyphen"/>tents, in ſo much that I utterly
+rejected it; and told him, That no Conſideration ſhould make me diſown my
+Marriage, but as to the Sale of his Eſtate, that ſhould be no hindrance:
+For I was ready to join with him in any Act, to make good any Contract of that
+Quality or Nature. But this did not ſeem to ſatisfy; and from that time, he
+began to withdraw himſelf by little and little from my Converſation, which
+gave me Jealouſy that he had ſome ill Deſigns againſt me: And ſhortly
+after, hearing that he had carried Mrs. <hi>Litſter</hi> to
+<hi>Thiſtleworth,</hi> and kept her there, I immediately ſent for him, and
+when he came, told him, That I would no longer conceal my Marriage, but
+publiſh it to the World. He uſed ſeveral Arguments to diſſwade me,
+but not prevailing left me diſſatisfied, and in ſome Diſorder; and the
+next Day wrote me the Letter fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>THE News of your continued Health would be very acceptable to
+me, for though I may have many falſe, yet common Re<g ref="char:EOLhyphen"/>ports I hope will have no
+Influence over you, to encourage you to a Breach of Promiſe; after which, you
+may be certain, there never ſhall be any Correſpondence betwixt us, nor
+will I give you one Penny more for ſeparate Maintenance, than what the Law
+will allow. You have your Choice, whether you had rather diſobey your
+Friends, or me; but if you comply with me in my Deſires of Secrecy, you may
+have hopes of poſſeſſing as much of my Love as ever, and continue me
+Your Affectionate.</p>
+               </body>
+            </floatingText>
+            <p>This Letter needs ſome Explanation. The Secret meant in the
+Letter, was a Promiſe I made to him, to conceal my Name and Marriage when I
+came firſt into <hi>England,</hi> and continue the Name of <hi>Ridley,</hi>
+till he ſhould think fit to let me appear pub<g ref="char:EOLhyphen"/>lickly as his Wife: But
+however, by the Words Separate Main<g ref="char:EOLhyphen"/>tenance,
+<pb n="30" facs="tcp:101927:17"/>it imports a plain Confeſſion, under his
+own Hand, that I was and am his lawful Wife.</p>
+            <p>But however, he perſiſting afterwards to keep Company with
+Mrs. <hi>Litſter,</hi> and I being informed that ſhe pretended to be his
+Wife, in <hi>July,</hi> 1693. I libelled againſt him in the <hi>Spiritual
+Court,</hi> and cauſed him to be ſerved to anſwer, which he ſeemed very
+unwilling to do, and by his Advocate, Dr. <hi>Pinfold,</hi> pro<g ref="char:EOLhyphen"/>poſed to give
+me Two Thouſand Pound to diſclaim my Mar<g ref="char:EOLhyphen"/>riage, deliver up all my Papers,
+Writings, and Certificates re<g ref="char:EOLhyphen"/>lating to it, and ſign the ſame Paper, or to
+the ſame Effect he had tendred to me before when he came from
+<hi>Thiſtleworth.</hi> This being refuſed by me, with this Declaration,
+That I would ſtarve firſt; he was ſo concerned how to anſwer my Libel,
+that he offered to give me One Thouſand Pound, and Two Hun<g ref="char:EOLhyphen"/>dred Pound <hi>per
+Annum</hi> only to deſiſt, and proſecute him no further in that Court:
+And this likewiſe, at firſt I rejected; but afterwards,
+<note place="margin">Proved by Mr. <hi>Miller.</hi> Mrs.
+<hi>Brownſ<g ref="char:EOLhyphen"/>worth.</hi> Mr. <hi>Hancock.</hi>
+               </note> by the over
+Perſwaſion of himſelf and my Friends, I was prevailed with to accept, and
+he gave me a Judgment to ſecure me the Payment of the Thouſand Pound within
+Eight Months, and promiſed punctual Payment of the Two Hundred Pound <hi>per
+Annum;</hi> and thereupon, I gave my Proctors order to deſiſt in my Suit,
+in the <hi>Eccleſiaſtical Court:</hi> But my Lord, ſoon after, beginning
+to wrangle with me about the Judgment, and not performing his Agreement, and
+keeping Company with Mrs. <hi>Litſter,</hi>
+               <note place="margin">And the Li<g ref="char:EOLhyphen"/>bels and An<g ref="char:EOLhyphen"/>ſwers upon
+Record.</note> I took up my Suit in the <hi>Commons,</hi> and preſſed him
+for an Anſwer to my Libel; wherein he made ſo much Difficulty, that I was
+forced with ſome Charge, to pro<g ref="char:EOLhyphen"/>cure the Judge himſelf, of the Court, to
+examine him upon the Articles in my Libel; who thereupon, asking him whether he
+took out the Licence at <hi>Verona,</hi> in the Libel ſet forth, he
+an<g ref="char:EOLhyphen"/>ſwered in theſe Words, That he did procure and obtain the Licence to
+marry me, but did not remember that he touched the Holy Goſpel. Being asked
+what he did with it, and whether he married me or not, he demurr'd and
+deſired to anſwer that Matter by Councel: And well knowing what undeniable
+Proof there was of my Marriage, he betook himſelf to a new Inven<g ref="char:EOLhyphen"/>tion, when
+he ſaw nothing elſe would do for the Ruine of us both; and upon the Third
+of <hi>Auguſt,</hi> 1693. makes <hi>Litſter,</hi> by Colluſion, Libel
+againſt him for Conjugal Rights (notwith<g ref="char:EOLhyphen"/>ſtanding he kept her in his own
+Houſe at <hi>Thiſtleworth,</hi> at that
+<pb n="31" facs="tcp:101927:17"/>very time) and in that Libel, ſhe expreſly
+ſuggeſts and declares, That ſhe was married to him in 1686. by Dr.
+<hi>Cluer,</hi> a Reverend Divine of the Church of <hi>England,</hi> in the
+preſence of divers Credible Witneſſes, accordind to the Rites of the
+Church: And my Lord, in his Anſwer to this Libel, confeſſes that he was
+Married to her. But it ſeems they overſhot themſelves, and conſidering,
+as is proved in the Cauſe, by her own Re<g ref="char:EOLhyphen"/>lations, that they were not ſo
+much as acquainted at that time; Mrs. <hi>Litſter</hi> deſires Leave of the
+Court to Reform her Libel, as they call it; and in <hi>November</hi> following,
+brings in a new Libel, and therein lays her Marriage to be upon the Sixteenth
+of <hi>May</hi> 1689. by the ſame Reverend Divine, and in the preſence of
+divers Credible Witneſſes. And here it is not improper to ob<g ref="char:EOLhyphen"/>ſerve, that
+ſhe her ſelf differs but Three Years with her ſelf as to the time of her
+own Pretended Marriage; But this is but a ſmall Miſtake amongſt others in
+this Cauſe. But however this laſt Libel being too general, and the Place
+where ſhe was married not being mentioned, nor any of the divers Credible
+Witneſſes named; I put in an Allegation by my Proctors, Requiring her to
+ſet forth the Place, and who theſe divers Credible Witneſſes were; with
+their Names, Qualities, and Places of their Abode. To which ſhe anſwers,
+That the Marriage was at the <hi>Nags-Head</hi> Ale-houſe by Doctor
+<hi>Cluer,</hi> in the preſence of <hi>Charles Sherrard,</hi> Mr.
+<hi>Morton</hi>'s Journeyman. So that at laſt the divers Credible
+Wit<g ref="char:EOLhyphen"/>neſſes are dwindled into that Scandalous Doctor and one ſingle
+Servant; and upon this infamous Teſtimony, his Lordſhip endea<g ref="char:EOLhyphen"/>vours to
+eſtabliſh his Marriage with <hi>Litſter,</hi> and overthrow mine,
+contrary to his own Oath, all the Proceedings of Law Proofs, No<g ref="char:EOLhyphen"/>torious Facts,
+and other Circumſtances in Concurrence. And now, I hope, the Reader will
+allow me to have kept my word with him; I promiſed him a ſimple Narrative
+of Facts relating to the Proof of my Marriage, which I have exactly kept my
+ſelf to, not in the leaſt touching or reflecting upon any Matters tho'
+ne<g ref="char:EOLhyphen"/>ver ſo abſurd and improbable, relating to <hi>Lyſter</hi>'s
+unaccountable Pretenſions, any further than in the few obſervable Remarks
+fol<g ref="char:EOLhyphen"/>lowing; which, I hope, the Reader will think no Tranſgreſſion, but a
+Neceſſary part of my Vindication.</p>
+            <p>I have already conſulted in this Narrative, all the Niceties of
+Law, Honour, Juſtice and Conſcience that occur in my own Caſe; but yet,
+leſt the repetition of ſo many neceſſary Forms and Recitals ſhould
+have made it ſeem heavy and tedious; It
+<pb n="32" facs="tcp:101927:18"/>will not be amiſs to paſs ſome ſhort
+Remarks in the Nature of a Summary upon the whole. And the Point will be
+ſhortly this; Was there ever any thing more Scandalous or Incredible than the
+Pretence and Menage of <hi>Litſter</hi>'s Pretended Marriage on the one hand;
+or ever any thing more Solemn or Notorious, or backt with a ſtronger
+Pregnancy of Proof and Preſumptions, than Mine with the Earl of
+<hi>Banbury</hi> is on the other.</p>
+            <p>Now, I ſhould not concern my ſelf in the Story of
+<hi>Litſter</hi>'s Marriage, if I were not in ſome ſort upon a Diſproof
+as well as a Defence, and drawn into it by <hi>Litſter</hi> her ſelf; but
+ſince it doubles the Credit of my Vindication to prove the one True and the
+other Falſe; I hope the Reader will not think the Digreſſion impertinent.
+To begin then with the Circumſtances of <hi>Litſter</hi>'s Pretended
+Marriage: When was ſhe Married? She charges it in 86. But upon ſecond
+Thoughts (and my Lord at that time having no Acquaintance with her, as is
+Proved by her own Re<g ref="char:EOLhyphen"/>lations in the Cauſe.) She obtained Leave of the Judge
+of the <hi>Eccleſiaſtical Court,</hi> where the Cauſe depended, to reform
+her own Libel, and then lays it to be upon the Sixteenth of <hi>May</hi> 89.
+and differs with her ſelf but Three Years in the Time of her own notable
+Wedding; But from <hi>that time,</hi> till about <hi>April</hi> 93. none of her
+Friends ever heard of this Marriage; and <hi>then</hi> it was high time, ſhe
+being big with Child. And yet my Lord all this while, until he Married me, was
+at his own diſpoſe and liberty, of full Age, had neither Father or Mother,
+or any Rela<g ref="char:EOLhyphen"/>tion to awe and controul him; and Mrs. <hi>Litſter,</hi>
+likewiſe being in the ſame Condition Freedom; it will be hard to fancy a
+Reaſon why they ſhould conceal it. In the next place, I muſt mind the
+Reader, that in <hi>Auguſt</hi> 89. which was ſcarce Three Months after
+this ſuppoſed Marriage;
+<note place="margin">Mrs. <hi>Brownſ<g ref="char:EOLhyphen"/>worth.</hi>
+               </note> my Lord,
+with his Siſter the Lady <hi>Katharine,</hi> and all his Servants, came to my
+Houſe in the <hi>Pall Mall;</hi> Lay there conſtantly, not a Night
+abſent, and I lived in Part of the Houſe with them till <hi>December,</hi>
+and then he perſwaded me to go into <hi>France;</hi> but he continued in the
+Houſe, diſpoſed of my Goods and Writings at his own Will and Pleaſure,
+till <hi>May</hi> following; and then came to me at <hi>Paris.</hi> And in all
+this time, no News of <hi>Litſter</hi> either in Town or Country.</p>
+            <p>Conſider agen,
+<note place="margin">Proved by <hi>Timothy Hill. John Blake.</hi> Mr.
+<hi>Vaughan. Margaret Vaſſal.</hi>
+               </note> the Place where they were
+Married. It was at the <hi>Nags-Head</hi> Ale-houſe in
+<hi>Covent-Garden.</hi>
+            </p>
+            <p>And now to Crown the Work; The holy Man that Coupled 'em was Dr.
+<hi>Cluer,</hi> late Vicar of <hi>Croydon;</hi> a Perſon ſo famous,
+<pb n="33" facs="tcp:101927:18" rendition="simple:additions"/>that whoever knows his Name, knows his
+Character;
+<note place="margin">Mary Bol<g ref="char:EOLhyphen"/>wel. Frances Co<g ref="char:EOLhyphen"/>nac. Rich. Huet. Tho.
+Vincent.</note> you might have found him often in <hi>Newgate:</hi> He was the
+wicked Prieſt that was made uſe of in the famous Marriage of Mrs
+<hi>Wharton.</hi> And in my Caſe, is proved Guilty of Perjury, Subornation,
+and all the Scandalous Crimes that can be named; But in particular (and that is
+in the very Point in queſtion) of giving Falſe and Antedated Certificates
+to ſeveral Perſons that he had Married; than which nothing is more
+Pernicious and Dangerous to Heirs and Wives, and of which I am an Unfortunate
+Example.</p>
+            <p>And after all, to Conſummate the Solemnity of this Notable
+Buſineſs, a ſingle Journeyman for the Witneſs.</p>
+            <p>To conclude all, I ſhall only add, That when my Lord was a
+Priſoner upon the Death of Mr. <hi>Lawſon,</hi> and his Life and For<g ref="char:EOLhyphen"/>tune
+in Danger; neither <hi>Litſter</hi> her ſelf, or any of her Rela<g ref="char:EOLhyphen"/>tions came
+near him: And ſurely, if ſhe had look'd upon her ſelf as his Wife, ſhe
+wou'd not undoubtedly have let ſlip that Opportunity of making her Claim. And
+now I leave the Rea<g ref="char:EOLhyphen"/>der and the World to Judge which is the true Child. </p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>HAd I not tied my ſelf up to Truths and Facts proved by
+Witneſſes and Records, beyond Contradiction; I could have made this
+Narrative much Pleaſanter to the Reader, and my Vindication Stronge;r and yet
+not have err'd from Truth.</p>
+               <p>
+                  <hi>Theſe Letters following being a further Proof of the Care
+that was taken in the Examination of the Foreign Witneſſes; ought to have
+been inſerted in Page</hi> 16. <hi>but being omitted there, I think it is not
+amiſs to place them here.</hi>
+               </p>
+               <floatingText type="letter">
+                  <body>
+                     <head>To the moſt Reverend Lord <hi>Henry <g ref="char:V">Ʋ</g>ralando,</hi>
+Biſhop of <hi>Mantua,</hi> in <hi>Mantua.</hi>
+                     </head>
+                     <opener>
+                        <salute>Moſt Reverend Sir,</salute>
+                     </opener>
+                     <p>WHereas a certain Matrimonial Cauſe hath been committed to
+us, by the Court of <hi>Canterbury,</hi> of the Arches, <hi>London,</hi> for
+examining ſome Witneſſes, living in theſe Parts of <hi>Italy,</hi> at
+the Requeſt of the Noble Lady <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> Counteſs of
+<hi>Banbury,</hi> in the Dioceſs of <hi>London</hi> and Province of
+<hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> againſt the Noble Lord <hi>Charles</hi> Earl of
+<hi>Banbury,</hi> and <hi>Elizabeth Liſter,</hi> upon Articles in the ſaid
+Court produced: And whereas, amongſt other Witneſſes Nominated <hi>ad
+probandum;</hi> ſome Witneſſes living in your City, are named upon the
+Third, Fourth, Fifth, Sixth and Seventh of the ſaid Articles, who cannot be
+had in this City. Therefore, in favour of Juſtice, we pray and requeſt your
+Reverence to cauſe to be cited before you the Witneſſes hereafter named;
+and a Notary or Secretary being aſſumed, and Oath adminiſtred to them to
+ſpeak the Truth, cauſe them to be examined diligently and ſeparately upon
+the annexed Articles and Interrogations; and to cauſe all other
+Witneſſes, if any ſhall be produced, to be examined, and ſend their
+Depoſitions ſubſcribed by them and the Notary, to us cloſed, ſealed,
+and revealed to no Perſon. In the mean time, being ready to do the like, and
+greater Services, we wiſh your Excellence all in<g ref="char:EOLhyphen"/>creaſe of Happineſs.</p>
+                     <closer>
+                        <dateline>In <hi>Verona,</hi> 
+                           <date>the
+2d. of <hi>September,</hi> 1694.</date>
+                        </dateline>
+                        <signed>Your Reverence's moſt Humble and Obedient Servant,
+<hi>Petrus Epiſcopus Veronenſis.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="34" facs="tcp:101927:19"/>
+               <floatingText type="letter">
+                  <body>
+                     <head>To the moſt Eminent and Reverend Lord Cardinal
+<hi>Nigeroni,</hi> Biſhop of <hi>Faenza,</hi> at <hi>Faenza.</hi>
+                     </head>
+                     <opener>
+                        <salute>
+                           <hi>Moſt Eminent and moſt Reverend
+Sir,</hi>
+                        </salute>
+                     </opener>
+                     <p>WHereas a certain Matrimonial Cauſe hath been committed to
+us, by the Court of <hi>Canterbury,</hi> of the Arches, in <hi>London,</hi> for
+the examining ſome Witneſſes living in theſe Parts of <hi>Italy,</hi>
+at the inſtance of the Noble Lady <hi>Elizabeth</hi> Counteſs of
+<hi>Banbury,</hi> in the Dioceſs of <hi>London,</hi> Province of
+<hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> againſt the Noble Lord <hi>Charles</hi> Earl of
+<hi>Banbury</hi> and <hi>Elizabeth Liſter,</hi> upon Articles in the ſaid
+Court produced. And whereas amongſt other Witneſſes, Father <hi>Decio
+Gaſparino,</hi> of the Society of <hi>Jeſus,</hi> is named and given in
+upon the Firſt, Second, and Third Articles, to make Proof upon the ſame;
+and the ſaid Father being at preſent in your City, ſo that he cannot be
+had before us here. Therefore in <hi>Subſidium Juris,</hi> we do reverently
+pray and requeſt your Eminence to cauſe the ſaid Father
+<hi>Gaſparino</hi> to be ſummoned before you; and having a ſſu<g ref="char:EOLhyphen"/>med a
+Notary or Secretary, and adminiſtred Oath to him to ſpeak the Truth, to be
+diligently examined on the Articles and Interrogations annexed; and alſo, the
+other Witneſſes, if any ſhall be produced to be interrogated, and his and
+their Depoſitions by him and the ſaid Witneſſes ſubſcribed, and
+brought into authen<g ref="char:EOLhyphen"/>tick Form; to be ſent to us cloſed and ſealed up, and
+not revealed to any one. In the mean time, giving all Duties of Humility to
+your Eminence, we wiſh you, with profound Reſpect, all Happineſs.</p>
+                     <closer>
+                        <dateline>
+                           <hi>In</hi> Verona, <hi>the</hi>
+                           <date>
+                              <hi>2d. of September,</hi> 1694.</date>
+                        </dateline>
+                        <signed>
+                           <hi>Your moſt Humble, and Obedient Servant,</hi>
+Petrus Epiſcopus Veronenſis.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>To the Right Reverend the Archbiſhop of
+<hi>Bologna.</hi>
+                     </head>
+                     <opener>
+                        <salute>Moſt Reverend Sir,</salute>
+                     </opener>
+                     <p>WHereas a certain Matrimonial Cauſe hath been committed to
+us, by the Court of <hi>Canterbury,</hi> of the Arches, of <hi>London,</hi> for
+the Examination of certain Witneſſes, living in theſe Parts of
+<hi>Italy,</hi> at the inſtance of the Noble Lady <hi>Elizabeth</hi>
+Counteſs of <hi>Banbury,</hi> of the Dioceſs of <hi>London,</hi> in the
+Province of <hi>Canterbury,</hi> againſt the Noble Lord <hi>Charles</hi> Earl
+of <hi>Banbury,</hi> and <hi>Elizabeth Liſter,</hi> upon Articles produced in
+the ſaid Court. And whereas amongſt other Witneſſes, the Reverend
+Father <hi>Franciſco Donati,</hi> of the Society of <hi>Jeſus,</hi> is
+nominated <hi>ad probandum,</hi> upon the Firſt, ſecond, and Third
+Articles, and the ſaid Father being at preſent in your City, ſo that he
+cannot be had before us: Therefore in <hi>Juris Subſidium,</hi> we do Pray
+and Requeſt you, That you would cauſe the ſaid Father <hi>Donati</hi> to
+be Summoned before you or your Vicar, and ha<g ref="char:EOLhyphen"/>ving aſſumed a Notary, or
+Secretary, and Oath being Adminiſtred to him to ſpeak the Truth, cauſe
+him to be diligently Examined upon the Articles and Interro<g ref="char:EOLhyphen"/>gations annexed;
+and alſo the other Witneſſes to be interrogated, if any ſhall be
+produced, and his or their Depoſitions, by the ſaid Witneſs or
+Witneſſes ſub<g ref="char:EOLhyphen"/>ſcribed to be ſent to us in Writing in authentick Form;
+cloſed, ſealed and to none revealed. In the mean time, offering our Service
+to your Reverence, we wiſh you all Happineſs.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Verona, the</hi>
+                           <date>
+                              <hi>2d. of</hi> September,
+<hi>1694.</hi>
+                           </date>
+                        </dateline>
+                        <signed>
+                           <hi>Your Servant,</hi> Petrus Epiſcopus
+Veronenſis.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:101927:19"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
